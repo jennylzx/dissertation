@@ -1,0 +1,881 @@
+Cost centre group,Nationality,Academic year,Sex,Number
+Administration & business studies,European Union,2014/15,Female,1030
+Administration & business studies,Non-European Union,2014/15,Female,955
+Administration & business studies,Not known,2014/15,Female,100
+Administration & business studies,UK,2014/15,Female,4325
+Administration & business studies,European Union,2014/15,Male,1300
+Administration & business studies,Non-European Union,2014/15,Male,1410
+Administration & business studies,Not known,2014/15,Male,130
+Administration & business studies,UK,2014/15,Male,5855
+Administration & business studies,All,2014/15,Female,6410
+Administration & business studies,All,2014/15,Male,8695
+"Agriculture, forestry & veterinary science",European Union,2014/15,Female,220
+"Agriculture, forestry & veterinary science",Non-European Union,2014/15,Female,100
+"Agriculture, forestry & veterinary science",Not known,2014/15,Female,10
+"Agriculture, forestry & veterinary science",UK,2014/15,Female,920
+"Agriculture, forestry & veterinary science",European Union,2014/15,Male,190
+"Agriculture, forestry & veterinary science",Non-European Union,2014/15,Male,100
+"Agriculture, forestry & veterinary science",Not known,2014/15,Male,5
+"Agriculture, forestry & veterinary science",UK,2014/15,Male,850
+"Agriculture, forestry & veterinary science",All,2014/15,Female,1245
+"Agriculture, forestry & veterinary science",All,2014/15,Male,1150
+Architecture & planning,European Union,2014/15,Female,265
+Architecture & planning,Non-European Union,2014/15,Female,170
+Architecture & planning,Not known,2014/15,Female,30
+Architecture & planning,UK,2014/15,Female,820
+Architecture & planning,European Union,2014/15,Male,300
+Architecture & planning,Non-European Union,2014/15,Male,255
+Architecture & planning,Not known,2014/15,Male,65
+Architecture & planning,UK,2014/15,Male,2020
+Architecture & planning,All,2014/15,Female,1285
+Architecture & planning,All,2014/15,Male,2635
+"Biological, mathematical & physical sciences",European Union,2014/15,Female,2690
+"Biological, mathematical & physical sciences",Non-European Union,2014/15,Female,1460
+"Biological, mathematical & physical sciences",Not known,2014/15,Female,195
+"Biological, mathematical & physical sciences",UK,2014/15,Female,6170
+"Biological, mathematical & physical sciences",European Union,2014/15,Male,4235
+"Biological, mathematical & physical sciences",Non-European Union,2014/15,Male,3090
+"Biological, mathematical & physical sciences",Not known,2014/15,Male,395
+"Biological, mathematical & physical sciences",UK,2014/15,Male,13035
+"Biological, mathematical & physical sciences",All,2014/15,Female,10515
+"Biological, mathematical & physical sciences",All,2014/15,Male,20755
+"Design, creative & performing arts",European Union,2014/15,Female,735
+"Design, creative & performing arts",Non-European Union,2014/15,Female,515
+"Design, creative & performing arts",Not known,2014/15,Female,410
+"Design, creative & performing arts",UK,2014/15,Female,5620
+"Design, creative & performing arts",European Union,2014/15,Male,570
+"Design, creative & performing arts",Non-European Union,2014/15,Male,375
+"Design, creative & performing arts",Not known,2014/15,Male,395
+"Design, creative & performing arts",UK,2014/15,Male,7105
+"Design, creative & performing arts",All,2014/15,Female,7275
+"Design, creative & performing arts",All,2014/15,Male,8450
+Education,European Union,2014/15,Female,570
+Education,Non-European Union,2014/15,Female,295
+Education,Not known,2014/15,Female,115
+Education,UK,2014/15,Female,6990
+Education,European Union,2014/15,Male,340
+Education,Non-European Union,2014/15,Male,175
+Education,Not known,2014/15,Male,75
+Education,UK,2014/15,Male,4730
+Education,All,2014/15,Female,7970
+Education,All,2014/15,Male,5320
+Engineering & technology,European Union,2014/15,Female,1075
+Engineering & technology,Non-European Union,2014/15,Female,1035
+Engineering & technology,Not known,2014/15,Female,55
+Engineering & technology,UK,2014/15,Female,2480
+Engineering & technology,European Union,2014/15,Male,3220
+Engineering & technology,Non-European Union,2014/15,Male,4060
+Engineering & technology,Not known,2014/15,Male,215
+Engineering & technology,UK,2014/15,Male,11520
+Engineering & technology,All,2014/15,Female,4640
+Engineering & technology,All,2014/15,Male,19010
+Humanities & language based studies & archaeology,European Union,2014/15,Female,2345
+Humanities & language based studies & archaeology,Non-European Union,2014/15,Female,1225
+Humanities & language based studies & archaeology,Not known,2014/15,Female,190
+Humanities & language based studies & archaeology,UK,2014/15,Female,5375
+Humanities & language based studies & archaeology,European Union,2014/15,Male,1360
+Humanities & language based studies & archaeology,Non-European Union,2014/15,Male,940
+Humanities & language based studies & archaeology,Not known,2014/15,Male,195
+Humanities & language based studies & archaeology,UK,2014/15,Male,6025
+Humanities & language based studies & archaeology,All,2014/15,Female,9140
+Humanities & language based studies & archaeology,All,2014/15,Male,8520
+"Medicine, dentistry & health",European Union,2014/15,Female,3960
+"Medicine, dentistry & health",Non-European Union,2014/15,Female,2150
+"Medicine, dentistry & health",Not known,2014/15,Female,535
+"Medicine, dentistry & health",UK,2014/15,Female,21335
+"Medicine, dentistry & health",European Union,2014/15,Male,2795
+"Medicine, dentistry & health",Non-European Union,2014/15,Male,1955
+"Medicine, dentistry & health",Not known,2014/15,Male,490
+"Medicine, dentistry & health",UK,2014/15,Male,14565
+"Medicine, dentistry & health",All,2014/15,Female,27980
+"Medicine, dentistry & health",All,2014/15,Male,19805
+Other services,European Union,2014/15,Female,130
+Other services,Non-European Union,2014/15,Female,95
+Other services,Not known,2014/15,Female,35
+Other services,UK,2014/15,Female,1315
+Other services,European Union,2014/15,Male,95
+Other services,Non-European Union,2014/15,Male,60
+Other services,Not known,2014/15,Male,25
+Other services,UK,2014/15,Male,1135
+Other services,All,2014/15,Female,1575
+Other services,All,2014/15,Male,1320
+Social studies,European Union,2014/15,Female,2020
+Social studies,Non-European Union,2014/15,Female,1375
+Social studies,Not known,2014/15,Female,205
+Social studies,UK,2014/15,Female,7585
+Social studies,European Union,2014/15,Male,2185
+Social studies,Non-European Union,2014/15,Male,1565
+Social studies,Not known,2014/15,Male,275
+Social studies,UK,2014/15,Male,9430
+Social studies,All,2014/15,Female,11185
+Social studies,All,2014/15,Male,13450
+Administration & business studies,European Union,2015/16,Female,1155
+Administration & business studies,Non-European Union,2015/16,Female,1055
+Administration & business studies,Not known,2015/16,Female,70
+Administration & business studies,UK,2015/16,Female,4380
+Administration & business studies,European Union,2015/16,Male,1425
+Administration & business studies,Non-European Union,2015/16,Male,1470
+Administration & business studies,Not known,2015/16,Male,100
+Administration & business studies,UK,2015/16,Male,5920
+Administration & business studies,All,2015/16,Female,6660
+Administration & business studies,All,2015/16,Male,8915
+"Agriculture, forestry & veterinary science",European Union,2015/16,Female,230
+"Agriculture, forestry & veterinary science",Non-European Union,2015/16,Female,100
+"Agriculture, forestry & veterinary science",Not known,2015/16,Female,10
+"Agriculture, forestry & veterinary science",UK,2015/16,Female,920
+"Agriculture, forestry & veterinary science",European Union,2015/16,Male,215
+"Agriculture, forestry & veterinary science",Non-European Union,2015/16,Male,105
+"Agriculture, forestry & veterinary science",Not known,2015/16,Male,5
+"Agriculture, forestry & veterinary science",UK,2015/16,Male,855
+"Agriculture, forestry & veterinary science",All,2015/16,Female,1255
+"Agriculture, forestry & veterinary science",All,2015/16,Male,1175
+Architecture & planning,European Union,2015/16,Female,275
+Architecture & planning,Non-European Union,2015/16,Female,170
+Architecture & planning,Not known,2015/16,Female,30
+Architecture & planning,UK,2015/16,Female,870
+Architecture & planning,European Union,2015/16,Male,315
+Architecture & planning,Non-European Union,2015/16,Male,270
+Architecture & planning,Not known,2015/16,Male,50
+Architecture & planning,UK,2015/16,Male,2020
+Architecture & planning,All,2015/16,Female,1350
+Architecture & planning,All,2015/16,Male,2660
+"Biological, mathematical & physical sciences",European Union,2015/16,Female,2825
+"Biological, mathematical & physical sciences",Non-European Union,2015/16,Female,1565
+"Biological, mathematical & physical sciences",Not known,2015/16,Female,125
+"Biological, mathematical & physical sciences",UK,2015/16,Female,6100
+"Biological, mathematical & physical sciences",European Union,2015/16,Male,4385
+"Biological, mathematical & physical sciences",Non-European Union,2015/16,Male,3155
+"Biological, mathematical & physical sciences",Not known,2015/16,Male,295
+"Biological, mathematical & physical sciences",UK,2015/16,Male,13010
+"Biological, mathematical & physical sciences",All,2015/16,Female,10610
+"Biological, mathematical & physical sciences",All,2015/16,Male,20845
+"Design, creative & performing arts",European Union,2015/16,Female,790
+"Design, creative & performing arts",Non-European Union,2015/16,Female,530
+"Design, creative & performing arts",Not known,2015/16,Female,430
+"Design, creative & performing arts",UK,2015/16,Female,5980
+"Design, creative & performing arts",European Union,2015/16,Male,600
+"Design, creative & performing arts",Non-European Union,2015/16,Male,350
+"Design, creative & performing arts",Not known,2015/16,Male,385
+"Design, creative & performing arts",UK,2015/16,Male,7160
+"Design, creative & performing arts",All,2015/16,Female,7735
+"Design, creative & performing arts",All,2015/16,Male,8495
+Education,European Union,2015/16,Female,585
+Education,Non-European Union,2015/16,Female,295
+Education,Not known,2015/16,Female,85
+Education,UK,2015/16,Female,6780
+Education,European Union,2015/16,Male,325
+Education,Non-European Union,2015/16,Male,180
+Education,Not known,2015/16,Male,45
+Education,UK,2015/16,Male,4585
+Education,All,2015/16,Female,7745
+Education,All,2015/16,Male,5130
+Engineering & technology,European Union,2015/16,Female,1155
+Engineering & technology,Non-European Union,2015/16,Female,1140
+Engineering & technology,Not known,2015/16,Female,50
+Engineering & technology,UK,2015/16,Female,2460
+Engineering & technology,European Union,2015/16,Male,3500
+Engineering & technology,Non-European Union,2015/16,Male,4390
+Engineering & technology,Not known,2015/16,Male,155
+Engineering & technology,UK,2015/16,Male,11415
+Engineering & technology,All,2015/16,Female,4810
+Engineering & technology,All,2015/16,Male,19460
+Humanities & language based studies & archaeology,European Union,2015/16,Female,2475
+Humanities & language based studies & archaeology,Non-European Union,2015/16,Female,1270
+Humanities & language based studies & archaeology,Not known,2015/16,Female,135
+Humanities & language based studies & archaeology,UK,2015/16,Female,5450
+Humanities & language based studies & archaeology,European Union,2015/16,Male,1400
+Humanities & language based studies & archaeology,Non-European Union,2015/16,Male,930
+Humanities & language based studies & archaeology,Not known,2015/16,Male,110
+Humanities & language based studies & archaeology,UK,2015/16,Male,5960
+Humanities & language based studies & archaeology,All,2015/16,Female,9325
+Humanities & language based studies & archaeology,All,2015/16,Male,8400
+"Medicine, dentistry & health",European Union,2015/16,Female,4320
+"Medicine, dentistry & health",Non-European Union,2015/16,Female,2205
+"Medicine, dentistry & health",Not known,2015/16,Female,345
+"Medicine, dentistry & health",UK,2015/16,Female,21800
+"Medicine, dentistry & health",European Union,2015/16,Male,2990
+"Medicine, dentistry & health",Non-European Union,2015/16,Male,2050
+"Medicine, dentistry & health",Not known,2015/16,Male,350
+"Medicine, dentistry & health",UK,2015/16,Male,14810
+"Medicine, dentistry & health",All,2015/16,Female,28670
+"Medicine, dentistry & health",All,2015/16,Male,20195
+Other services,European Union,2015/16,Female,160
+Other services,Non-European Union,2015/16,Female,100
+Other services,Not known,2015/16,Female,30
+Other services,UK,2015/16,Female,1315
+Other services,European Union,2015/16,Male,80
+Other services,Non-European Union,2015/16,Male,65
+Other services,Not known,2015/16,Male,20
+Other services,UK,2015/16,Male,1140
+Other services,All,2015/16,Female,1605
+Other services,All,2015/16,Male,1305
+Social studies,European Union,2015/16,Female,2195
+Social studies,Non-European Union,2015/16,Female,1465
+Social studies,Not known,2015/16,Female,180
+Social studies,UK,2015/16,Female,7730
+Social studies,European Union,2015/16,Male,2355
+Social studies,Non-European Union,2015/16,Male,1690
+Social studies,Not known,2015/16,Male,190
+Social studies,UK,2015/16,Male,9600
+Social studies,All,2015/16,Female,11575
+Social studies,All,2015/16,Male,13830
+Administration & business studies,European Union,2016/17,Female,1235
+Administration & business studies,Non-European Union,2016/17,Female,1155
+Administration & business studies,Not known,2016/17,Female,75
+Administration & business studies,UK,2016/17,Female,4485
+Administration & business studies,European Union,2016/17,Male,1525
+Administration & business studies,Non-European Union,2016/17,Male,1550
+Administration & business studies,Not known,2016/17,Male,95
+Administration & business studies,UK,2016/17,Male,5990
+Administration & business studies,All,2016/17,Female,6950
+Administration & business studies,All,2016/17,Male,9160
+"Agriculture, forestry & veterinary science",European Union,2016/17,Female,260
+"Agriculture, forestry & veterinary science",Non-European Union,2016/17,Female,105
+"Agriculture, forestry & veterinary science",Not known,2016/17,Female,0
+"Agriculture, forestry & veterinary science",UK,2016/17,Female,935
+"Agriculture, forestry & veterinary science",European Union,2016/17,Male,225
+"Agriculture, forestry & veterinary science",Non-European Union,2016/17,Male,115
+"Agriculture, forestry & veterinary science",Not known,2016/17,Male,0
+"Agriculture, forestry & veterinary science",UK,2016/17,Male,890
+"Agriculture, forestry & veterinary science",All,2016/17,Female,1305
+"Agriculture, forestry & veterinary science",All,2016/17,Male,1230
+Architecture & planning,European Union,2016/17,Female,295
+Architecture & planning,Non-European Union,2016/17,Female,185
+Architecture & planning,Not known,2016/17,Female,20
+Architecture & planning,UK,2016/17,Female,885
+Architecture & planning,European Union,2016/17,Male,350
+Architecture & planning,Non-European Union,2016/17,Male,275
+Architecture & planning,Not known,2016/17,Male,30
+Architecture & planning,UK,2016/17,Male,2020
+Architecture & planning,All,2016/17,Female,1385
+Architecture & planning,All,2016/17,Male,2675
+"Biological, mathematical & physical sciences",European Union,2016/17,Female,2945
+"Biological, mathematical & physical sciences",Non-European Union,2016/17,Female,1610
+"Biological, mathematical & physical sciences",Not known,2016/17,Female,75
+"Biological, mathematical & physical sciences",UK,2016/17,Female,6335
+"Biological, mathematical & physical sciences",European Union,2016/17,Male,4530
+"Biological, mathematical & physical sciences",Non-European Union,2016/17,Male,3180
+"Biological, mathematical & physical sciences",Not known,2016/17,Male,175
+"Biological, mathematical & physical sciences",UK,2016/17,Male,12955
+"Biological, mathematical & physical sciences",All,2016/17,Female,10970
+"Biological, mathematical & physical sciences",All,2016/17,Male,20845
+"Design, creative & performing arts",European Union,2016/17,Female,1045
+"Design, creative & performing arts",Non-European Union,2016/17,Female,625
+"Design, creative & performing arts",Not known,2016/17,Female,135
+"Design, creative & performing arts",UK,2016/17,Female,6925
+"Design, creative & performing arts",European Union,2016/17,Male,750
+"Design, creative & performing arts",Non-European Union,2016/17,Male,445
+"Design, creative & performing arts",Not known,2016/17,Male,130
+"Design, creative & performing arts",UK,2016/17,Male,8175
+"Design, creative & performing arts",All,2016/17,Female,8730
+"Design, creative & performing arts",All,2016/17,Male,9505
+Education,European Union,2016/17,Female,615
+Education,Non-European Union,2016/17,Female,310
+Education,Not known,2016/17,Female,75
+Education,UK,2016/17,Female,6625
+Education,European Union,2016/17,Male,350
+Education,Non-European Union,2016/17,Male,205
+Education,Not known,2016/17,Male,45
+Education,UK,2016/17,Male,4575
+Education,All,2016/17,Female,7620
+Education,All,2016/17,Male,5175
+Engineering & technology,European Union,2016/17,Female,1200
+Engineering & technology,Non-European Union,2016/17,Female,1205
+Engineering & technology,Not known,2016/17,Female,45
+Engineering & technology,UK,2016/17,Female,2510
+Engineering & technology,European Union,2016/17,Male,3670
+Engineering & technology,Non-European Union,2016/17,Male,4425
+Engineering & technology,Not known,2016/17,Male,135
+Engineering & technology,UK,2016/17,Male,11420
+Engineering & technology,All,2016/17,Female,4960
+Engineering & technology,All,2016/17,Male,19645
+Humanities & language based studies & archaeology,European Union,2016/17,Female,2575
+Humanities & language based studies & archaeology,Non-European Union,2016/17,Female,1310
+Humanities & language based studies & archaeology,Not known,2016/17,Female,95
+Humanities & language based studies & archaeology,UK,2016/17,Female,5525
+Humanities & language based studies & archaeology,European Union,2016/17,Male,1440
+Humanities & language based studies & archaeology,Non-European Union,2016/17,Male,935
+Humanities & language based studies & archaeology,Not known,2016/17,Male,85
+Humanities & language based studies & archaeology,UK,2016/17,Male,5950
+Humanities & language based studies & archaeology,All,2016/17,Female,9505
+Humanities & language based studies & archaeology,All,2016/17,Male,8405
+"Medicine, dentistry & health",European Union,2016/17,Female,4625
+"Medicine, dentistry & health",Non-European Union,2016/17,Female,2390
+"Medicine, dentistry & health",Not known,2016/17,Female,240
+"Medicine, dentistry & health",UK,2016/17,Female,22265
+"Medicine, dentistry & health",European Union,2016/17,Male,3160
+"Medicine, dentistry & health",Non-European Union,2016/17,Male,2150
+"Medicine, dentistry & health",Not known,2016/17,Male,230
+"Medicine, dentistry & health",UK,2016/17,Male,14930
+"Medicine, dentistry & health",All,2016/17,Female,29525
+"Medicine, dentistry & health",All,2016/17,Male,20470
+Other services,European Union,2016/17,Female,155
+Other services,Non-European Union,2016/17,Female,100
+Other services,Not known,2016/17,Female,10
+Other services,UK,2016/17,Female,1260
+Other services,European Union,2016/17,Male,95
+Other services,Non-European Union,2016/17,Male,55
+Other services,Not known,2016/17,Male,5
+Other services,UK,2016/17,Male,1090
+Other services,All,2016/17,Female,1525
+Other services,All,2016/17,Male,1245
+Social studies,European Union,2016/17,Female,2345
+Social studies,Non-European Union,2016/17,Female,1580
+Social studies,Not known,2016/17,Female,120
+Social studies,UK,2016/17,Female,7955
+Social studies,European Union,2016/17,Male,2525
+Social studies,Non-European Union,2016/17,Male,1750
+Social studies,Not known,2016/17,Male,125
+Social studies,UK,2016/17,Male,9635
+Social studies,All,2016/17,Female,12000
+Social studies,All,2016/17,Male,14035
+Administration & business studies,European Union,2017/18,Female,1275
+Administration & business studies,Non-European Union,2017/18,Female,1330
+Administration & business studies,Not known,2017/18,Female,65
+Administration & business studies,UK,2017/18,Female,4630
+Administration & business studies,European Union,2017/18,Male,1585
+Administration & business studies,Non-European Union,2017/18,Male,1710
+Administration & business studies,Not known,2017/18,Male,70
+Administration & business studies,UK,2017/18,Male,6020
+Administration & business studies,All,2017/18,Female,7295
+Administration & business studies,All,2017/18,Male,9385
+"Agriculture, forestry & veterinary science",European Union,2017/18,Female,275
+"Agriculture, forestry & veterinary science",Non-European Union,2017/18,Female,115
+"Agriculture, forestry & veterinary science",Not known,2017/18,Female,5
+"Agriculture, forestry & veterinary science",UK,2017/18,Female,970
+"Agriculture, forestry & veterinary science",European Union,2017/18,Male,220
+"Agriculture, forestry & veterinary science",Non-European Union,2017/18,Male,125
+"Agriculture, forestry & veterinary science",Not known,2017/18,Male,0
+"Agriculture, forestry & veterinary science",UK,2017/18,Male,880
+"Agriculture, forestry & veterinary science",All,2017/18,Female,1365
+"Agriculture, forestry & veterinary science",All,2017/18,Male,1225
+Architecture & planning,European Union,2017/18,Female,345
+Architecture & planning,Non-European Union,2017/18,Female,215
+Architecture & planning,Not known,2017/18,Female,10
+Architecture & planning,UK,2017/18,Female,900
+Architecture & planning,European Union,2017/18,Male,360
+Architecture & planning,Non-European Union,2017/18,Male,305
+Architecture & planning,Not known,2017/18,Male,25
+Architecture & planning,UK,2017/18,Male,2080
+Architecture & planning,All,2017/18,Female,1470
+Architecture & planning,All,2017/18,Male,2765
+"Biological, mathematical & physical sciences",European Union,2017/18,Female,3105
+"Biological, mathematical & physical sciences",Non-European Union,2017/18,Female,1745
+"Biological, mathematical & physical sciences",Not known,2017/18,Female,50
+"Biological, mathematical & physical sciences",UK,2017/18,Female,6500
+"Biological, mathematical & physical sciences",European Union,2017/18,Male,4645
+"Biological, mathematical & physical sciences",Non-European Union,2017/18,Male,3450
+"Biological, mathematical & physical sciences",Not known,2017/18,Male,110
+"Biological, mathematical & physical sciences",UK,2017/18,Male,13200
+"Biological, mathematical & physical sciences",All,2017/18,Female,11395
+"Biological, mathematical & physical sciences",All,2017/18,Male,21405
+"Design, creative & performing arts",European Union,2017/18,Female,1000
+"Design, creative & performing arts",Non-European Union,2017/18,Female,625
+"Design, creative & performing arts",Not known,2017/18,Female,115
+"Design, creative & performing arts",UK,2017/18,Female,6710
+"Design, creative & performing arts",European Union,2017/18,Male,725
+"Design, creative & performing arts",Non-European Union,2017/18,Male,435
+"Design, creative & performing arts",Not known,2017/18,Male,110
+"Design, creative & performing arts",UK,2017/18,Male,7965
+"Design, creative & performing arts",All,2017/18,Female,8445
+"Design, creative & performing arts",All,2017/18,Male,9235
+Education,European Union,2017/18,Female,665
+Education,Non-European Union,2017/18,Female,355
+Education,Not known,2017/18,Female,50
+Education,UK,2017/18,Female,6760
+Education,European Union,2017/18,Male,335
+Education,Non-European Union,2017/18,Male,220
+Education,Not known,2017/18,Male,30
+Education,UK,2017/18,Male,4585
+Education,All,2017/18,Female,7830
+Education,All,2017/18,Male,5170
+Engineering & technology,European Union,2017/18,Female,1295
+Engineering & technology,Non-European Union,2017/18,Female,1350
+Engineering & technology,Not known,2017/18,Female,35
+Engineering & technology,UK,2017/18,Female,2605
+Engineering & technology,European Union,2017/18,Male,3975
+Engineering & technology,Non-European Union,2017/18,Male,4850
+Engineering & technology,Not known,2017/18,Male,95
+Engineering & technology,UK,2017/18,Male,11730
+Engineering & technology,All,2017/18,Female,5280
+Engineering & technology,All,2017/18,Male,20650
+Humanities & language based studies & archaeology,European Union,2017/18,Female,2585
+Humanities & language based studies & archaeology,Non-European Union,2017/18,Female,1350
+Humanities & language based studies & archaeology,Not known,2017/18,Female,100
+Humanities & language based studies & archaeology,UK,2017/18,Female,5570
+Humanities & language based studies & archaeology,European Union,2017/18,Male,1490
+Humanities & language based studies & archaeology,Non-European Union,2017/18,Male,1025
+Humanities & language based studies & archaeology,Not known,2017/18,Male,85
+Humanities & language based studies & archaeology,UK,2017/18,Male,5875
+Humanities & language based studies & archaeology,All,2017/18,Female,9600
+Humanities & language based studies & archaeology,All,2017/18,Male,8475
+"Medicine, dentistry & health",European Union,2017/18,Female,4785
+"Medicine, dentistry & health",Non-European Union,2017/18,Female,2485
+"Medicine, dentistry & health",Not known,2017/18,Female,205
+"Medicine, dentistry & health",UK,2017/18,Female,22950
+"Medicine, dentistry & health",European Union,2017/18,Male,3195
+"Medicine, dentistry & health",Non-European Union,2017/18,Male,2220
+"Medicine, dentistry & health",Not known,2017/18,Male,165
+"Medicine, dentistry & health",UK,2017/18,Male,15225
+"Medicine, dentistry & health",All,2017/18,Female,30425
+"Medicine, dentistry & health",All,2017/18,Male,20800
+Other services,European Union,2017/18,Female,135
+Other services,Non-European Union,2017/18,Female,75
+Other services,Not known,2017/18,Female,10
+Other services,UK,2017/18,Female,1185
+Other services,European Union,2017/18,Male,90
+Other services,Non-European Union,2017/18,Male,65
+Other services,Not known,2017/18,Male,10
+Other services,UK,2017/18,Male,1070
+Other services,All,2017/18,Female,1405
+Other services,All,2017/18,Male,1235
+Social studies,European Union,2017/18,Female,2495
+Social studies,Non-European Union,2017/18,Female,1770
+Social studies,Not known,2017/18,Female,100
+Social studies,UK,2017/18,Female,8315
+Social studies,European Union,2017/18,Male,2675
+Social studies,Non-European Union,2017/18,Male,1800
+Social studies,Not known,2017/18,Male,105
+Social studies,UK,2017/18,Male,9820
+Social studies,All,2017/18,Female,12680
+Social studies,All,2017/18,Male,14400
+Administration & business studies,European Union,2018/19,Female,1300
+Administration & business studies,Non-European Union,2018/19,Female,1465
+Administration & business studies,Not known,2018/19,Female,45
+Administration & business studies,UK,2018/19,Female,4735
+Administration & business studies,European Union,2018/19,Male,1630
+Administration & business studies,Non-European Union,2018/19,Male,1900
+Administration & business studies,Not known,2018/19,Male,40
+Administration & business studies,UK,2018/19,Male,5995
+Administration & business studies,All,2018/19,Female,7540
+Administration & business studies,All,2018/19,Male,9570
+"Agriculture, forestry & veterinary science",European Union,2018/19,Female,300
+"Agriculture, forestry & veterinary science",Non-European Union,2018/19,Female,110
+"Agriculture, forestry & veterinary science",Not known,2018/19,Female,10
+"Agriculture, forestry & veterinary science",UK,2018/19,Female,1150
+"Agriculture, forestry & veterinary science",European Union,2018/19,Male,200
+"Agriculture, forestry & veterinary science",Non-European Union,2018/19,Male,135
+"Agriculture, forestry & veterinary science",Not known,2018/19,Male,5
+"Agriculture, forestry & veterinary science",UK,2018/19,Male,950
+"Agriculture, forestry & veterinary science",All,2018/19,Female,1570
+"Agriculture, forestry & veterinary science",All,2018/19,Male,1290
+Architecture & planning,European Union,2018/19,Female,390
+Architecture & planning,Non-European Union,2018/19,Female,235
+Architecture & planning,Not known,2018/19,Female,5
+Architecture & planning,UK,2018/19,Female,985
+Architecture & planning,European Union,2018/19,Male,385
+Architecture & planning,Non-European Union,2018/19,Male,350
+Architecture & planning,Not known,2018/19,Male,25
+Architecture & planning,UK,2018/19,Male,2155
+Architecture & planning,All,2018/19,Female,1620
+Architecture & planning,All,2018/19,Male,2910
+"Biological, mathematical & physical sciences",European Union,2018/19,Female,3095
+"Biological, mathematical & physical sciences",Non-European Union,2018/19,Female,1830
+"Biological, mathematical & physical sciences",Not known,2018/19,Female,75
+"Biological, mathematical & physical sciences",UK,2018/19,Female,6570
+"Biological, mathematical & physical sciences",European Union,2018/19,Male,4650
+"Biological, mathematical & physical sciences",Non-European Union,2018/19,Male,3545
+"Biological, mathematical & physical sciences",Not known,2018/19,Male,125
+"Biological, mathematical & physical sciences",UK,2018/19,Male,13330
+"Biological, mathematical & physical sciences",All,2018/19,Female,11570
+"Biological, mathematical & physical sciences",All,2018/19,Male,21650
+"Design, creative & performing arts",European Union,2018/19,Female,1045
+"Design, creative & performing arts",Non-European Union,2018/19,Female,640
+"Design, creative & performing arts",Not known,2018/19,Female,95
+"Design, creative & performing arts",UK,2018/19,Female,6780
+"Design, creative & performing arts",European Union,2018/19,Male,720
+"Design, creative & performing arts",Non-European Union,2018/19,Male,445
+"Design, creative & performing arts",Not known,2018/19,Male,85
+"Design, creative & performing arts",UK,2018/19,Male,8015
+"Design, creative & performing arts",All,2018/19,Female,8555
+"Design, creative & performing arts",All,2018/19,Male,9270
+Education,European Union,2018/19,Female,710
+Education,Non-European Union,2018/19,Female,385
+Education,Not known,2018/19,Female,50
+Education,UK,2018/19,Female,6850
+Education,European Union,2018/19,Male,350
+Education,Non-European Union,2018/19,Male,225
+Education,Not known,2018/19,Male,25
+Education,UK,2018/19,Male,4600
+Education,All,2018/19,Female,8000
+Education,All,2018/19,Male,5200
+Engineering & technology,European Union,2018/19,Female,1330
+Engineering & technology,Non-European Union,2018/19,Female,1540
+Engineering & technology,Not known,2018/19,Female,20
+Engineering & technology,UK,2018/19,Female,2740
+Engineering & technology,European Union,2018/19,Male,4070
+Engineering & technology,Non-European Union,2018/19,Male,5355
+Engineering & technology,Not known,2018/19,Male,85
+Engineering & technology,UK,2018/19,Male,11715
+Engineering & technology,All,2018/19,Female,5630
+Engineering & technology,All,2018/19,Male,21225
+Humanities & language based studies & archaeology,European Union,2018/19,Female,2610
+Humanities & language based studies & archaeology,Non-European Union,2018/19,Female,1365
+Humanities & language based studies & archaeology,Not known,2018/19,Female,80
+Humanities & language based studies & archaeology,UK,2018/19,Female,5680
+Humanities & language based studies & archaeology,European Union,2018/19,Male,1520
+Humanities & language based studies & archaeology,Non-European Union,2018/19,Male,1030
+Humanities & language based studies & archaeology,Not known,2018/19,Male,80
+Humanities & language based studies & archaeology,UK,2018/19,Male,5850
+Humanities & language based studies & archaeology,All,2018/19,Female,9735
+Humanities & language based studies & archaeology,All,2018/19,Male,8485
+"Medicine, dentistry & health",European Union,2018/19,Female,4975
+"Medicine, dentistry & health",Non-European Union,2018/19,Female,2725
+"Medicine, dentistry & health",Not known,2018/19,Female,195
+"Medicine, dentistry & health",UK,2018/19,Female,23645
+"Medicine, dentistry & health",European Union,2018/19,Male,3250
+"Medicine, dentistry & health",Non-European Union,2018/19,Male,2375
+"Medicine, dentistry & health",Not known,2018/19,Male,185
+"Medicine, dentistry & health",UK,2018/19,Male,15445
+"Medicine, dentistry & health",All,2018/19,Female,31540
+"Medicine, dentistry & health",All,2018/19,Male,21255
+Other services,European Union,2018/19,Female,160
+Other services,Non-European Union,2018/19,Female,100
+Other services,Not known,2018/19,Female,15
+Other services,UK,2018/19,Female,1215
+Other services,European Union,2018/19,Male,90
+Other services,Non-European Union,2018/19,Male,65
+Other services,Not known,2018/19,Male,5
+Other services,UK,2018/19,Male,1080
+Other services,All,2018/19,Female,1490
+Other services,All,2018/19,Male,1245
+Social studies,European Union,2018/19,Female,2555
+Social studies,Non-European Union,2018/19,Female,1865
+Social studies,Not known,2018/19,Female,90
+Social studies,UK,2018/19,Female,8605
+Social studies,European Union,2018/19,Male,2730
+Social studies,Non-European Union,2018/19,Male,1865
+Social studies,Not known,2018/19,Male,105
+Social studies,UK,2018/19,Male,9845
+Social studies,All,2018/19,Female,13115
+Social studies,All,2018/19,Male,14540
+Administration & business studies,European Union,2019/20,Female,1365
+Administration & business studies,Non-European Union,2019/20,Female,1650
+Administration & business studies,Not known,2019/20,Female,50
+Administration & business studies,UK,2019/20,Female,5005
+Administration & business studies,European Union,2019/20,Male,1655
+Administration & business studies,Non-European Union,2019/20,Male,2130
+Administration & business studies,Not known,2019/20,Male,45
+Administration & business studies,UK,2019/20,Male,6275
+Administration & business studies,All,2019/20,Female,8070
+Administration & business studies,All,2019/20,Male,10110
+"Agriculture, forestry & veterinary science",European Union,2019/20,Female,285
+"Agriculture, forestry & veterinary science",Non-European Union,2019/20,Female,120
+"Agriculture, forestry & veterinary science",Not known,2019/20,Female,10
+"Agriculture, forestry & veterinary science",UK,2019/20,Female,1215
+"Agriculture, forestry & veterinary science",European Union,2019/20,Male,215
+"Agriculture, forestry & veterinary science",Non-European Union,2019/20,Male,140
+"Agriculture, forestry & veterinary science",Not known,2019/20,Male,5
+"Agriculture, forestry & veterinary science",UK,2019/20,Male,920
+"Agriculture, forestry & veterinary science",All,2019/20,Female,1630
+"Agriculture, forestry & veterinary science",All,2019/20,Male,1280
+Architecture & planning,European Union,2019/20,Female,410
+Architecture & planning,Non-European Union,2019/20,Female,245
+Architecture & planning,Not known,2019/20,Female,5
+Architecture & planning,UK,2019/20,Female,1065
+Architecture & planning,European Union,2019/20,Male,390
+Architecture & planning,Non-European Union,2019/20,Male,370
+Architecture & planning,Not known,2019/20,Male,20
+Architecture & planning,UK,2019/20,Male,2210
+Architecture & planning,All,2019/20,Female,1730
+Architecture & planning,All,2019/20,Male,2990
+"Biological, mathematical & physical sciences",European Union,2019/20,Female,3110
+"Biological, mathematical & physical sciences",Non-European Union,2019/20,Female,2005
+"Biological, mathematical & physical sciences",Not known,2019/20,Female,75
+"Biological, mathematical & physical sciences",UK,2019/20,Female,6830
+"Biological, mathematical & physical sciences",European Union,2019/20,Male,4560
+"Biological, mathematical & physical sciences",Non-European Union,2019/20,Male,3665
+"Biological, mathematical & physical sciences",Not known,2019/20,Male,150
+"Biological, mathematical & physical sciences",UK,2019/20,Male,13320
+"Biological, mathematical & physical sciences",All,2019/20,Female,12020
+"Biological, mathematical & physical sciences",All,2019/20,Male,21695
+"Design, creative & performing arts",European Union,2019/20,Female,1095
+"Design, creative & performing arts",Non-European Union,2019/20,Female,670
+"Design, creative & performing arts",Not known,2019/20,Female,80
+"Design, creative & performing arts",UK,2019/20,Female,7045
+"Design, creative & performing arts",European Union,2019/20,Male,785
+"Design, creative & performing arts",Non-European Union,2019/20,Male,475
+"Design, creative & performing arts",Not known,2019/20,Male,75
+"Design, creative & performing arts",UK,2019/20,Male,8370
+"Design, creative & performing arts",All,2019/20,Female,8890
+"Design, creative & performing arts",All,2019/20,Male,9700
+Education,European Union,2019/20,Female,720
+Education,Non-European Union,2019/20,Female,445
+Education,Not known,2019/20,Female,50
+Education,UK,2019/20,Female,7020
+Education,European Union,2019/20,Male,365
+Education,Non-European Union,2019/20,Male,245
+Education,Not known,2019/20,Male,20
+Education,UK,2019/20,Male,4565
+Education,All,2019/20,Female,8230
+Education,All,2019/20,Male,5195
+Engineering & technology,European Union,2019/20,Female,1360
+Engineering & technology,Non-European Union,2019/20,Female,1725
+Engineering & technology,Not known,2019/20,Female,35
+Engineering & technology,UK,2019/20,Female,2835
+Engineering & technology,European Union,2019/20,Male,4045
+Engineering & technology,Non-European Union,2019/20,Male,5875
+Engineering & technology,Not known,2019/20,Male,100
+Engineering & technology,UK,2019/20,Male,11775
+Engineering & technology,All,2019/20,Female,5950
+Engineering & technology,All,2019/20,Male,21790
+Humanities & language based studies & archaeology,European Union,2019/20,Female,2605
+Humanities & language based studies & archaeology,Non-European Union,2019/20,Female,1435
+Humanities & language based studies & archaeology,Not known,2019/20,Female,85
+Humanities & language based studies & archaeology,UK,2019/20,Female,5855
+Humanities & language based studies & archaeology,European Union,2019/20,Male,1485
+Humanities & language based studies & archaeology,Non-European Union,2019/20,Male,1060
+Humanities & language based studies & archaeology,Not known,2019/20,Male,80
+Humanities & language based studies & archaeology,UK,2019/20,Male,5965
+Humanities & language based studies & archaeology,All,2019/20,Female,9980
+Humanities & language based studies & archaeology,All,2019/20,Male,8590
+"Medicine, dentistry & health",European Union,2019/20,Female,5040
+"Medicine, dentistry & health",Non-European Union,2019/20,Female,2835
+"Medicine, dentistry & health",Not known,2019/20,Female,225
+"Medicine, dentistry & health",UK,2019/20,Female,24240
+"Medicine, dentistry & health",European Union,2019/20,Male,3240
+"Medicine, dentistry & health",Non-European Union,2019/20,Male,2465
+"Medicine, dentistry & health",Not known,2019/20,Male,220
+"Medicine, dentistry & health",UK,2019/20,Male,15565
+"Medicine, dentistry & health",All,2019/20,Female,32335
+"Medicine, dentistry & health",All,2019/20,Male,21485
+Other services,European Union,2019/20,Female,190
+Other services,Non-European Union,2019/20,Female,140
+Other services,Not known,2019/20,Female,10
+Other services,UK,2019/20,Female,1360
+Other services,European Union,2019/20,Male,105
+Other services,Non-European Union,2019/20,Male,90
+Other services,Not known,2019/20,Male,5
+Other services,UK,2019/20,Male,1090
+Other services,All,2019/20,Female,1705
+Other services,All,2019/20,Male,1290
+Social studies,European Union,2019/20,Female,2655
+Social studies,Non-European Union,2019/20,Female,2040
+Social studies,Not known,2019/20,Female,75
+Social studies,UK,2019/20,Female,8995
+Social studies,European Union,2019/20,Male,2675
+Social studies,Non-European Union,2019/20,Male,1920
+Social studies,Not known,2019/20,Male,110
+Social studies,UK,2019/20,Male,10040
+Social studies,All,2019/20,Female,13760
+Social studies,All,2019/20,Male,14740
+Administration & business studies,European Union,2020/21,Female,1320
+Administration & business studies,Non-European Union,2020/21,Female,1815
+Administration & business studies,Not known,2020/21,Female,40
+Administration & business studies,UK,2020/21,Female,5010
+Administration & business studies,European Union,2020/21,Male,1675
+Administration & business studies,Non-European Union,2020/21,Male,2245
+Administration & business studies,Not known,2020/21,Male,40
+Administration & business studies,UK,2020/21,Male,6100
+Administration & business studies,All,2020/21,Female,8185
+Administration & business studies,All,2020/21,Male,10060
+"Agriculture, forestry & veterinary science",European Union,2020/21,Female,295
+"Agriculture, forestry & veterinary science",Non-European Union,2020/21,Female,145
+"Agriculture, forestry & veterinary science",Not known,2020/21,Female,15
+"Agriculture, forestry & veterinary science",UK,2020/21,Female,1295
+"Agriculture, forestry & veterinary science",European Union,2020/21,Male,210
+"Agriculture, forestry & veterinary science",Non-European Union,2020/21,Male,150
+"Agriculture, forestry & veterinary science",Not known,2020/21,Male,5
+"Agriculture, forestry & veterinary science",UK,2020/21,Male,945
+"Agriculture, forestry & veterinary science",All,2020/21,Female,1750
+"Agriculture, forestry & veterinary science",All,2020/21,Male,1315
+Architecture & planning,European Union,2020/21,Female,450
+Architecture & planning,Non-European Union,2020/21,Female,310
+Architecture & planning,Not known,2020/21,Female,10
+Architecture & planning,UK,2020/21,Female,1085
+Architecture & planning,European Union,2020/21,Male,435
+Architecture & planning,Non-European Union,2020/21,Male,430
+Architecture & planning,Not known,2020/21,Male,20
+Architecture & planning,UK,2020/21,Male,2220
+Architecture & planning,All,2020/21,Female,1855
+Architecture & planning,All,2020/21,Male,3105
+"Biological, mathematical & physical sciences",European Union,2020/21,Female,3045
+"Biological, mathematical & physical sciences",Non-European Union,2020/21,Female,2120
+"Biological, mathematical & physical sciences",Not known,2020/21,Female,80
+"Biological, mathematical & physical sciences",UK,2020/21,Female,6845
+"Biological, mathematical & physical sciences",European Union,2020/21,Male,4480
+"Biological, mathematical & physical sciences",Non-European Union,2020/21,Male,3710
+"Biological, mathematical & physical sciences",Not known,2020/21,Male,145
+"Biological, mathematical & physical sciences",UK,2020/21,Male,13055
+"Biological, mathematical & physical sciences",All,2020/21,Female,12090
+"Biological, mathematical & physical sciences",All,2020/21,Male,21390
+"Design, creative & performing arts",European Union,2020/21,Female,1130
+"Design, creative & performing arts",Non-European Union,2020/21,Female,690
+"Design, creative & performing arts",Not known,2020/21,Female,90
+"Design, creative & performing arts",UK,2020/21,Female,7090
+"Design, creative & performing arts",European Union,2020/21,Male,765
+"Design, creative & performing arts",Non-European Union,2020/21,Male,475
+"Design, creative & performing arts",Not known,2020/21,Male,115
+"Design, creative & performing arts",UK,2020/21,Male,8400
+"Design, creative & performing arts",All,2020/21,Female,9000
+"Design, creative & performing arts",All,2020/21,Male,9760
+Education,European Union,2020/21,Female,725
+Education,Non-European Union,2020/21,Female,520
+Education,Not known,2020/21,Female,45
+Education,UK,2020/21,Female,6820
+Education,European Union,2020/21,Male,355
+Education,Non-European Union,2020/21,Male,260
+Education,Not known,2020/21,Male,15
+Education,UK,2020/21,Male,4430
+Education,All,2020/21,Female,8110
+Education,All,2020/21,Male,5060
+Engineering & technology,European Union,2020/21,Female,1400
+Engineering & technology,Non-European Union,2020/21,Female,1830
+Engineering & technology,Not known,2020/21,Female,45
+Engineering & technology,UK,2020/21,Female,2915
+Engineering & technology,European Union,2020/21,Male,4065
+Engineering & technology,Non-European Union,2020/21,Male,6180
+Engineering & technology,Not known,2020/21,Male,100
+Engineering & technology,UK,2020/21,Male,11845
+Engineering & technology,All,2020/21,Female,6190
+Engineering & technology,All,2020/21,Male,22190
+Humanities & language based studies & archaeology,European Union,2020/21,Female,2450
+Humanities & language based studies & archaeology,Non-European Union,2020/21,Female,1400
+Humanities & language based studies & archaeology,Not known,2020/21,Female,80
+Humanities & language based studies & archaeology,UK,2020/21,Female,5640
+Humanities & language based studies & archaeology,European Union,2020/21,Male,1405
+Humanities & language based studies & archaeology,Non-European Union,2020/21,Male,1065
+Humanities & language based studies & archaeology,Not known,2020/21,Male,75
+Humanities & language based studies & archaeology,UK,2020/21,Male,5675
+Humanities & language based studies & archaeology,All,2020/21,Female,9570
+Humanities & language based studies & archaeology,All,2020/21,Male,8215
+"Medicine, dentistry & health",European Union,2020/21,Female,5005
+"Medicine, dentistry & health",Non-European Union,2020/21,Female,2940
+"Medicine, dentistry & health",Not known,2020/21,Female,245
+"Medicine, dentistry & health",UK,2020/21,Female,24705
+"Medicine, dentistry & health",European Union,2020/21,Male,3300
+"Medicine, dentistry & health",Non-European Union,2020/21,Male,2510
+"Medicine, dentistry & health",Not known,2020/21,Male,220
+"Medicine, dentistry & health",UK,2020/21,Male,15460
+"Medicine, dentistry & health",All,2020/21,Female,32895
+"Medicine, dentistry & health",All,2020/21,Male,21485
+Other services,European Union,2020/21,Female,200
+Other services,Non-European Union,2020/21,Female,135
+Other services,Not known,2020/21,Female,10
+Other services,UK,2020/21,Female,1380
+Other services,European Union,2020/21,Male,125
+Other services,Non-European Union,2020/21,Male,105
+Other services,Not known,2020/21,Male,15
+Other services,UK,2020/21,Male,1195
+Other services,All,2020/21,Female,1730
+Other services,All,2020/21,Male,1440
+Social studies,European Union,2020/21,Female,2655
+Social studies,Non-European Union,2020/21,Female,2150
+Social studies,Not known,2020/21,Female,85
+Social studies,UK,2020/21,Female,9180
+Social studies,European Union,2020/21,Male,2650
+Social studies,Non-European Union,2020/21,Male,2025
+Social studies,Not known,2020/21,Male,105
+Social studies,UK,2020/21,Male,9890
+Social studies,All,2020/21,Female,14065
+Social studies,All,2020/21,Male,14670
+Administration & business studies,European Union,2021/22,Female,1315
+Administration & business studies,Non-European Union,2021/22,Female,2070
+Administration & business studies,Not known,2021/22,Female,40
+Administration & business studies,UK,2021/22,Female,5265
+Administration & business studies,European Union,2021/22,Male,1635
+Administration & business studies,Non-European Union,2021/22,Male,2465
+Administration & business studies,Not known,2021/22,Male,55
+Administration & business studies,UK,2021/22,Male,6340
+Administration & business studies,All,2021/22,Female,8695
+Administration & business studies,All,2021/22,Male,10500
+"Agriculture, forestry & veterinary science",European Union,2021/22,Female,260
+"Agriculture, forestry & veterinary science",Non-European Union,2021/22,Female,140
+"Agriculture, forestry & veterinary science",Not known,2021/22,Female,10
+"Agriculture, forestry & veterinary science",UK,2021/22,Female,1345
+"Agriculture, forestry & veterinary science",European Union,2021/22,Male,185
+"Agriculture, forestry & veterinary science",Non-European Union,2021/22,Male,145
+"Agriculture, forestry & veterinary science",Not known,2021/22,Male,5
+"Agriculture, forestry & veterinary science",UK,2021/22,Male,945
+"Agriculture, forestry & veterinary science",All,2021/22,Female,1755
+"Agriculture, forestry & veterinary science",All,2021/22,Male,1280
+Architecture & planning,European Union,2021/22,Female,495
+Architecture & planning,Non-European Union,2021/22,Female,350
+Architecture & planning,Not known,2021/22,Female,5
+Architecture & planning,UK,2021/22,Female,1190
+Architecture & planning,European Union,2021/22,Male,445
+Architecture & planning,Non-European Union,2021/22,Male,455
+Architecture & planning,Not known,2021/22,Male,20
+Architecture & planning,UK,2021/22,Male,2305
+Architecture & planning,All,2021/22,Female,2040
+Architecture & planning,All,2021/22,Male,3230
+"Biological, mathematical & physical sciences",European Union,2021/22,Female,2975
+"Biological, mathematical & physical sciences",Non-European Union,2021/22,Female,2355
+"Biological, mathematical & physical sciences",Not known,2021/22,Female,115
+"Biological, mathematical & physical sciences",UK,2021/22,Female,7065
+"Biological, mathematical & physical sciences",European Union,2021/22,Male,4295
+"Biological, mathematical & physical sciences",Non-European Union,2021/22,Male,3775
+"Biological, mathematical & physical sciences",Not known,2021/22,Male,205
+"Biological, mathematical & physical sciences",UK,2021/22,Male,13165
+"Biological, mathematical & physical sciences",All,2021/22,Female,12515
+"Biological, mathematical & physical sciences",All,2021/22,Male,21440
+"Design, creative & performing arts",European Union,2021/22,Female,1275
+"Design, creative & performing arts",Non-European Union,2021/22,Female,800
+"Design, creative & performing arts",Not known,2021/22,Female,115
+"Design, creative & performing arts",UK,2021/22,Female,7860
+"Design, creative & performing arts",European Union,2021/22,Male,850
+"Design, creative & performing arts",Non-European Union,2021/22,Male,525
+"Design, creative & performing arts",Not known,2021/22,Male,140
+"Design, creative & performing arts",UK,2021/22,Male,8975
+"Design, creative & performing arts",All,2021/22,Female,10055
+"Design, creative & performing arts",All,2021/22,Male,10485
+Education,European Union,2021/22,Female,745
+Education,Non-European Union,2021/22,Female,630
+Education,Not known,2021/22,Female,85
+Education,UK,2021/22,Female,7150
+Education,European Union,2021/22,Male,375
+Education,Non-European Union,2021/22,Male,315
+Education,Not known,2021/22,Male,25
+Education,UK,2021/22,Male,4570
+Education,All,2021/22,Female,8610
+Education,All,2021/22,Male,5285
+Engineering & technology,European Union,2021/22,Female,1425
+Engineering & technology,Non-European Union,2021/22,Female,2045
+Engineering & technology,Not known,2021/22,Female,30
+Engineering & technology,UK,2021/22,Female,3050
+Engineering & technology,European Union,2021/22,Male,3875
+Engineering & technology,Non-European Union,2021/22,Male,6490
+Engineering & technology,Not known,2021/22,Male,120
+Engineering & technology,UK,2021/22,Male,11980
+Engineering & technology,All,2021/22,Female,6550
+Engineering & technology,All,2021/22,Male,22470
+Humanities & language based studies & archaeology,European Union,2021/22,Female,2440
+Humanities & language based studies & archaeology,Non-European Union,2021/22,Female,1515
+Humanities & language based studies & archaeology,Not known,2021/22,Female,110
+Humanities & language based studies & archaeology,UK,2021/22,Female,5860
+Humanities & language based studies & archaeology,European Union,2021/22,Male,1365
+Humanities & language based studies & archaeology,Non-European Union,2021/22,Male,1115
+Humanities & language based studies & archaeology,Not known,2021/22,Male,95
+Humanities & language based studies & archaeology,UK,2021/22,Male,5715
+Humanities & language based studies & archaeology,All,2021/22,Female,9925
+Humanities & language based studies & archaeology,All,2021/22,Male,8285
+"Medicine, dentistry & health",European Union,2021/22,Female,5050
+"Medicine, dentistry & health",Non-European Union,2021/22,Female,3240
+"Medicine, dentistry & health",Not known,2021/22,Female,320
+"Medicine, dentistry & health",UK,2021/22,Female,26290
+"Medicine, dentistry & health",European Union,2021/22,Male,3155
+"Medicine, dentistry & health",Non-European Union,2021/22,Male,2635
+"Medicine, dentistry & health",Not known,2021/22,Male,275
+"Medicine, dentistry & health",UK,2021/22,Male,15735
+"Medicine, dentistry & health",All,2021/22,Female,34895
+"Medicine, dentistry & health",All,2021/22,Male,21800
+Other services,European Union,2021/22,Female,240
+Other services,Non-European Union,2021/22,Female,195
+Other services,Not known,2021/22,Female,15
+Other services,UK,2021/22,Female,1610
+Other services,European Union,2021/22,Male,160
+Other services,Non-European Union,2021/22,Male,165
+Other services,Not known,2021/22,Male,15
+Other services,UK,2021/22,Male,1295
+Other services,All,2021/22,Female,2060
+Other services,All,2021/22,Male,1635
+Social studies,European Union,2021/22,Female,2690
+Social studies,Non-European Union,2021/22,Female,2400
+Social studies,Not known,2021/22,Female,95
+Social studies,UK,2021/22,Female,9645
+Social studies,European Union,2021/22,Male,2685
+Social studies,Non-European Union,2021/22,Male,2250
+Social studies,Not known,2021/22,Male,120
+Social studies,UK,2021/22,Male,10225
+Social studies,All,2021/22,Female,14825
+Social studies,All,2021/22,Male,15280

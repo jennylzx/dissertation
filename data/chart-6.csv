@@ -1,0 +1,737 @@
+Cost centre group,Cost centre,Academic year,Sex,Number
+"Medicine, dentistry & health",101 Clinical medicine,2014/15,Female,12480
+"Medicine, dentistry & health",101 Clinical medicine,2014/15,Male,11090
+"Medicine, dentistry & health",102 Clinical dentistry,2014/15,Female,665
+"Medicine, dentistry & health",102 Clinical dentistry,2014/15,Male,840
+"Medicine, dentistry & health",103 Nursing & allied health professions,2014/15,Female,7170
+"Medicine, dentistry & health",103 Nursing & allied health professions,2014/15,Male,2380
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2014/15,Female,3815
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2014/15,Male,2515
+"Medicine, dentistry & health",105 Health & community studies,2014/15,Female,2005
+"Medicine, dentistry & health",105 Health & community studies,2014/15,Male,1050
+"Medicine, dentistry & health",106 Anatomy & physiology,2014/15,Female,785
+"Medicine, dentistry & health",106 Anatomy & physiology,2014/15,Male,825
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2014/15,Female,1060
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2014/15,Male,1110
+Education,108 Sports science & leisure studies,2014/15,Female,985
+Education,108 Sports science & leisure studies,2014/15,Male,1655
+"Agriculture, forestry & veterinary science",109 Veterinary science,2014/15,Female,760
+"Agriculture, forestry & veterinary science",109 Veterinary science,2014/15,Male,600
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2014/15,Female,485
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2014/15,Male,550
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2014/15,Female,1295
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2014/15,Male,2460
+"Biological, mathematical & physical sciences",112 Biosciences,2014/15,Female,6095
+"Biological, mathematical & physical sciences",112 Biosciences,2014/15,Male,7645
+"Biological, mathematical & physical sciences",113 Chemistry,2014/15,Female,1125
+"Biological, mathematical & physical sciences",113 Chemistry,2014/15,Male,3035
+"Biological, mathematical & physical sciences",114 Physics,2014/15,Female,950
+"Biological, mathematical & physical sciences",114 Physics,2014/15,Male,4120
+Engineering & technology,115 General engineering,2014/15,Female,775
+Engineering & technology,115 General engineering,2014/15,Male,2950
+Engineering & technology,116 Chemical engineering,2014/15,Female,280
+Engineering & technology,116 Chemical engineering,2014/15,Male,770
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2014/15,Female,315
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2014/15,Male,890
+Engineering & technology,118 Civil engineering,2014/15,Female,425
+Engineering & technology,118 Civil engineering,2014/15,Male,1515
+Engineering & technology,"119 Electrical, electronic & computer engineering",2014/15,Female,620
+Engineering & technology,"119 Electrical, electronic & computer engineering",2014/15,Male,3710
+Engineering & technology,"120 Mechanical, aero & production engineering",2014/15,Female,755
+Engineering & technology,"120 Mechanical, aero & production engineering",2014/15,Male,4000
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2014/15,Female,1480
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2014/15,Male,5180
+"Biological, mathematical & physical sciences",122 Mathematics,2014/15,Female,1045
+"Biological, mathematical & physical sciences",122 Mathematics,2014/15,Male,3500
+Architecture & planning,"123 Architecture, built environment & planning",2014/15,Female,1285
+Architecture & planning,"123 Architecture, built environment & planning",2014/15,Male,2635
+Social studies,124 Geography & environmental studies,2014/15,Female,940
+Social studies,124 Geography & environmental studies,2014/15,Male,1435
+Humanities & language based studies & archaeology,125 Area studies,2014/15,Female,180
+Humanities & language based studies & archaeology,125 Area studies,2014/15,Male,195
+Humanities & language based studies & archaeology,126 Archaeology,2014/15,Female,315
+Humanities & language based studies & archaeology,126 Archaeology,2014/15,Male,415
+Social studies,127 Anthropology & development studies,2014/15,Female,475
+Social studies,127 Anthropology & development studies,2014/15,Male,480
+Social studies,128 Politics & international studies,2014/15,Female,1075
+Social studies,128 Politics & international studies,2014/15,Male,1935
+Social studies,129 Economics & econometrics,2014/15,Female,825
+Social studies,129 Economics & econometrics,2014/15,Male,2050
+Social studies,130 Law,2014/15,Female,2680
+Social studies,130 Law,2014/15,Male,2655
+Social studies,131 Social work & social policy,2014/15,Female,1905
+Social studies,131 Social work & social policy,2014/15,Male,1070
+Social studies,132 Sociology,2014/15,Female,1535
+Social studies,132 Sociology,2014/15,Male,1325
+Administration & business studies,133 Business & management studies,2014/15,Female,6025
+Administration & business studies,133 Business & management studies,2014/15,Male,8340
+Administration & business studies,134 Catering & hospitality management,2014/15,Female,385
+Administration & business studies,134 Catering & hospitality management,2014/15,Male,360
+Education,135 Education,2014/15,Female,6280
+Education,135 Education,2014/15,Male,3230
+Education,136 Continuing education,2014/15,Female,710
+Education,136 Continuing education,2014/15,Male,435
+Humanities & language based studies & archaeology,137 Modern languages,2014/15,Female,3760
+Humanities & language based studies & archaeology,137 Modern languages,2014/15,Male,2020
+Humanities & language based studies & archaeology,138 English language & literature,2014/15,Female,2670
+Humanities & language based studies & archaeology,138 English language & literature,2014/15,Male,2145
+Humanities & language based studies & archaeology,139 History,2014/15,Female,1375
+Humanities & language based studies & archaeology,139 History,2014/15,Male,2100
+Humanities & language based studies & archaeology,140 Classics,2014/15,Female,300
+Humanities & language based studies & archaeology,140 Classics,2014/15,Male,340
+Humanities & language based studies & archaeology,141 Philosophy,2014/15,Female,280
+Humanities & language based studies & archaeology,141 Philosophy,2014/15,Male,790
+Humanities & language based studies & archaeology,142 Theology & religious studies,2014/15,Female,260
+Humanities & language based studies & archaeology,142 Theology & religious studies,2014/15,Male,510
+"Design, creative & performing arts",143 Art & design,2014/15,Female,4205
+"Design, creative & performing arts",143 Art & design,2014/15,Male,4305
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2014/15,Female,3070
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2014/15,Male,4145
+Social studies,145 Media studies,2014/15,Female,1745
+Social studies,145 Media studies,2014/15,Male,2500
+Total academic services,Total academic services,2014/15,Female,605
+Total academic services,Total academic services,2014/15,Male,465
+"Medicine, dentistry & health",101 Clinical medicine,2015/16,Female,12740
+"Medicine, dentistry & health",101 Clinical medicine,2015/16,Male,11235
+"Medicine, dentistry & health",102 Clinical dentistry,2015/16,Female,700
+"Medicine, dentistry & health",102 Clinical dentistry,2015/16,Male,840
+"Medicine, dentistry & health",103 Nursing & allied health professions,2015/16,Female,7340
+"Medicine, dentistry & health",103 Nursing & allied health professions,2015/16,Male,2470
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2015/16,Female,4000
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2015/16,Male,2640
+"Medicine, dentistry & health",105 Health & community studies,2015/16,Female,1950
+"Medicine, dentistry & health",105 Health & community studies,2015/16,Male,1020
+"Medicine, dentistry & health",106 Anatomy & physiology,2015/16,Female,850
+"Medicine, dentistry & health",106 Anatomy & physiology,2015/16,Male,860
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2015/16,Female,1095
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2015/16,Male,1130
+Education,108 Sports science & leisure studies,2015/16,Female,1035
+Education,108 Sports science & leisure studies,2015/16,Male,1740
+"Agriculture, forestry & veterinary science",109 Veterinary science,2015/16,Female,740
+"Agriculture, forestry & veterinary science",109 Veterinary science,2015/16,Male,630
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2015/16,Female,515
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2015/16,Male,550
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2015/16,Female,1315
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2015/16,Male,2435
+"Biological, mathematical & physical sciences",112 Biosciences,2015/16,Female,6095
+"Biological, mathematical & physical sciences",112 Biosciences,2015/16,Male,7550
+"Biological, mathematical & physical sciences",113 Chemistry,2015/16,Female,1175
+"Biological, mathematical & physical sciences",113 Chemistry,2015/16,Male,3050
+"Biological, mathematical & physical sciences",114 Physics,2015/16,Female,960
+"Biological, mathematical & physical sciences",114 Physics,2015/16,Male,4225
+Engineering & technology,115 General engineering,2015/16,Female,795
+Engineering & technology,115 General engineering,2015/16,Male,3040
+Engineering & technology,116 Chemical engineering,2015/16,Female,310
+Engineering & technology,116 Chemical engineering,2015/16,Male,810
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2015/16,Female,320
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2015/16,Male,925
+Engineering & technology,118 Civil engineering,2015/16,Female,455
+Engineering & technology,118 Civil engineering,2015/16,Male,1485
+Engineering & technology,"119 Electrical, electronic & computer engineering",2015/16,Female,670
+Engineering & technology,"119 Electrical, electronic & computer engineering",2015/16,Male,3770
+Engineering & technology,"120 Mechanical, aero & production engineering",2015/16,Female,800
+Engineering & technology,"120 Mechanical, aero & production engineering",2015/16,Male,4200
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2015/16,Female,1460
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2015/16,Male,5235
+"Biological, mathematical & physical sciences",122 Mathematics,2015/16,Female,1065
+"Biological, mathematical & physical sciences",122 Mathematics,2015/16,Male,3590
+Architecture & planning,"123 Architecture, built environment & planning",2015/16,Female,1350
+Architecture & planning,"123 Architecture, built environment & planning",2015/16,Male,2660
+Social studies,124 Geography & environmental studies,2015/16,Female,945
+Social studies,124 Geography & environmental studies,2015/16,Male,1465
+Humanities & language based studies & archaeology,125 Area studies,2015/16,Female,170
+Humanities & language based studies & archaeology,125 Area studies,2015/16,Male,180
+Humanities & language based studies & archaeology,126 Archaeology,2015/16,Female,320
+Humanities & language based studies & archaeology,126 Archaeology,2015/16,Male,405
+Social studies,127 Anthropology & development studies,2015/16,Female,470
+Social studies,127 Anthropology & development studies,2015/16,Male,445
+Social studies,128 Politics & international studies,2015/16,Female,1185
+Social studies,128 Politics & international studies,2015/16,Male,2050
+Social studies,129 Economics & econometrics,2015/16,Female,830
+Social studies,129 Economics & econometrics,2015/16,Male,2085
+Social studies,130 Law,2015/16,Female,2790
+Social studies,130 Law,2015/16,Male,2670
+Social studies,131 Social work & social policy,2015/16,Female,1850
+Social studies,131 Social work & social policy,2015/16,Male,1030
+Social studies,132 Sociology,2015/16,Female,1655
+Social studies,132 Sociology,2015/16,Male,1415
+Administration & business studies,133 Business & management studies,2015/16,Female,6275
+Administration & business studies,133 Business & management studies,2015/16,Male,8565
+Administration & business studies,134 Catering & hospitality management,2015/16,Female,385
+Administration & business studies,134 Catering & hospitality management,2015/16,Male,350
+Education,135 Education,2015/16,Female,6085
+Education,135 Education,2015/16,Male,3025
+Education,136 Continuing education,2015/16,Female,625
+Education,136 Continuing education,2015/16,Male,365
+Humanities & language based studies & archaeology,137 Modern languages,2015/16,Female,3785
+Humanities & language based studies & archaeology,137 Modern languages,2015/16,Male,2030
+Humanities & language based studies & archaeology,138 English language & literature,2015/16,Female,2735
+Humanities & language based studies & archaeology,138 English language & literature,2015/16,Male,2160
+Humanities & language based studies & archaeology,139 History,2015/16,Female,1425
+Humanities & language based studies & archaeology,139 History,2015/16,Male,2035
+Humanities & language based studies & archaeology,140 Classics,2015/16,Female,320
+Humanities & language based studies & archaeology,140 Classics,2015/16,Male,325
+Humanities & language based studies & archaeology,141 Philosophy,2015/16,Female,310
+Humanities & language based studies & archaeology,141 Philosophy,2015/16,Male,785
+Humanities & language based studies & archaeology,142 Theology & religious studies,2015/16,Female,265
+Humanities & language based studies & archaeology,142 Theology & religious studies,2015/16,Male,490
+"Design, creative & performing arts",143 Art & design,2015/16,Female,4490
+"Design, creative & performing arts",143 Art & design,2015/16,Male,4235
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2015/16,Female,3245
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2015/16,Male,4260
+Social studies,145 Media studies,2015/16,Female,1855
+Social studies,145 Media studies,2015/16,Male,2675
+Total academic services,Total academic services,2015/16,Female,655
+Total academic services,Total academic services,2015/16,Male,485
+"Medicine, dentistry & health",101 Clinical medicine,2016/17,Female,13005
+"Medicine, dentistry & health",101 Clinical medicine,2016/17,Male,11305
+"Medicine, dentistry & health",102 Clinical dentistry,2016/17,Female,720
+"Medicine, dentistry & health",102 Clinical dentistry,2016/17,Male,815
+"Medicine, dentistry & health",103 Nursing & allied health professions,2016/17,Female,7515
+"Medicine, dentistry & health",103 Nursing & allied health professions,2016/17,Male,2515
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2016/17,Female,4230
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2016/17,Male,2725
+"Medicine, dentistry & health",105 Health & community studies,2016/17,Female,1955
+"Medicine, dentistry & health",105 Health & community studies,2016/17,Male,1030
+"Medicine, dentistry & health",106 Anatomy & physiology,2016/17,Female,940
+"Medicine, dentistry & health",106 Anatomy & physiology,2016/17,Male,925
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2016/17,Female,1165
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2016/17,Male,1160
+Education,108 Sports science & leisure studies,2016/17,Female,1045
+Education,108 Sports science & leisure studies,2016/17,Male,1830
+"Agriculture, forestry & veterinary science",109 Veterinary science,2016/17,Female,745
+"Agriculture, forestry & veterinary science",109 Veterinary science,2016/17,Male,645
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2016/17,Female,560
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2016/17,Male,590
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2016/17,Female,1280
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2016/17,Male,2395
+"Biological, mathematical & physical sciences",112 Biosciences,2016/17,Female,6385
+"Biological, mathematical & physical sciences",112 Biosciences,2016/17,Male,7580
+"Biological, mathematical & physical sciences",113 Chemistry,2016/17,Female,1245
+"Biological, mathematical & physical sciences",113 Chemistry,2016/17,Male,3065
+"Biological, mathematical & physical sciences",114 Physics,2016/17,Female,960
+"Biological, mathematical & physical sciences",114 Physics,2016/17,Male,4210
+Engineering & technology,115 General engineering,2016/17,Female,830
+Engineering & technology,115 General engineering,2016/17,Male,2975
+Engineering & technology,116 Chemical engineering,2016/17,Female,320
+Engineering & technology,116 Chemical engineering,2016/17,Male,905
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2016/17,Female,305
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2016/17,Male,890
+Engineering & technology,118 Civil engineering,2016/17,Female,455
+Engineering & technology,118 Civil engineering,2016/17,Male,1530
+Engineering & technology,"119 Electrical, electronic & computer engineering",2016/17,Female,640
+Engineering & technology,"119 Electrical, electronic & computer engineering",2016/17,Male,3740
+Engineering & technology,"120 Mechanical, aero & production engineering",2016/17,Female,875
+Engineering & technology,"120 Mechanical, aero & production engineering",2016/17,Male,4260
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2016/17,Female,1530
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2016/17,Male,5345
+"Biological, mathematical & physical sciences",122 Mathematics,2016/17,Female,1095
+"Biological, mathematical & physical sciences",122 Mathematics,2016/17,Male,3590
+Architecture & planning,"123 Architecture, built environment & planning",2016/17,Female,1385
+Architecture & planning,"123 Architecture, built environment & planning",2016/17,Male,2675
+Social studies,124 Geography & environmental studies,2016/17,Female,940
+Social studies,124 Geography & environmental studies,2016/17,Male,1455
+Humanities & language based studies & archaeology,125 Area studies,2016/17,Female,170
+Humanities & language based studies & archaeology,125 Area studies,2016/17,Male,205
+Humanities & language based studies & archaeology,126 Archaeology,2016/17,Female,345
+Humanities & language based studies & archaeology,126 Archaeology,2016/17,Male,430
+Social studies,127 Anthropology & development studies,2016/17,Female,470
+Social studies,127 Anthropology & development studies,2016/17,Male,450
+Social studies,128 Politics & international studies,2016/17,Female,1255
+Social studies,128 Politics & international studies,2016/17,Male,2130
+Social studies,129 Economics & econometrics,2016/17,Female,885
+Social studies,129 Economics & econometrics,2016/17,Male,2085
+Social studies,130 Law,2016/17,Female,2920
+Social studies,130 Law,2016/17,Male,2740
+Social studies,131 Social work & social policy,2016/17,Female,1865
+Social studies,131 Social work & social policy,2016/17,Male,1025
+Social studies,132 Sociology,2016/17,Female,1735
+Social studies,132 Sociology,2016/17,Male,1410
+Administration & business studies,133 Business & management studies,2016/17,Female,6600
+Administration & business studies,133 Business & management studies,2016/17,Male,8860
+Administration & business studies,134 Catering & hospitality management,2016/17,Female,355
+Administration & business studies,134 Catering & hospitality management,2016/17,Male,305
+Education,135 Education,2016/17,Female,6015
+Education,135 Education,2016/17,Male,2975
+Education,136 Continuing education,2016/17,Female,555
+Education,136 Continuing education,2016/17,Male,375
+Humanities & language based studies & archaeology,137 Modern languages,2016/17,Female,3860
+Humanities & language based studies & archaeology,137 Modern languages,2016/17,Male,2005
+Humanities & language based studies & archaeology,138 English language & literature,2016/17,Female,2750
+Humanities & language based studies & archaeology,138 English language & literature,2016/17,Male,2140
+Humanities & language based studies & archaeology,139 History,2016/17,Female,1465
+Humanities & language based studies & archaeology,139 History,2016/17,Male,2055
+Humanities & language based studies & archaeology,140 Classics,2016/17,Female,320
+Humanities & language based studies & archaeology,140 Classics,2016/17,Male,335
+Humanities & language based studies & archaeology,141 Philosophy,2016/17,Female,330
+Humanities & language based studies & archaeology,141 Philosophy,2016/17,Male,785
+Humanities & language based studies & archaeology,142 Theology & religious studies,2016/17,Female,260
+Humanities & language based studies & archaeology,142 Theology & religious studies,2016/17,Male,450
+"Design, creative & performing arts",143 Art & design,2016/17,Female,5340
+"Design, creative & performing arts",143 Art & design,2016/17,Male,5035
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2016/17,Female,3385
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2016/17,Male,4470
+Social studies,145 Media studies,2016/17,Female,1930
+Social studies,145 Media studies,2016/17,Male,2740
+Total academic services,Total academic services,2016/17,Female,645
+Total academic services,Total academic services,2016/17,Male,485
+"Medicine, dentistry & health",101 Clinical medicine,2017/18,Female,13360
+"Medicine, dentistry & health",101 Clinical medicine,2017/18,Male,11515
+"Medicine, dentistry & health",102 Clinical dentistry,2017/18,Female,730
+"Medicine, dentistry & health",102 Clinical dentistry,2017/18,Male,835
+"Medicine, dentistry & health",103 Nursing & allied health professions,2017/18,Female,7875
+"Medicine, dentistry & health",103 Nursing & allied health professions,2017/18,Male,2660
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2017/18,Female,4570
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2017/18,Male,2805
+"Medicine, dentistry & health",105 Health & community studies,2017/18,Female,1735
+"Medicine, dentistry & health",105 Health & community studies,2017/18,Male,850
+"Medicine, dentistry & health",106 Anatomy & physiology,2017/18,Female,930
+"Medicine, dentistry & health",106 Anatomy & physiology,2017/18,Male,905
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2017/18,Female,1230
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2017/18,Male,1230
+Education,108 Sports science & leisure studies,2017/18,Female,1035
+Education,108 Sports science & leisure studies,2017/18,Male,1840
+"Agriculture, forestry & veterinary science",109 Veterinary science,2017/18,Female,780
+"Agriculture, forestry & veterinary science",109 Veterinary science,2017/18,Male,635
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2017/18,Female,590
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2017/18,Male,585
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2017/18,Female,1345
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2017/18,Male,2415
+"Biological, mathematical & physical sciences",112 Biosciences,2017/18,Female,6670
+"Biological, mathematical & physical sciences",112 Biosciences,2017/18,Male,7735
+"Biological, mathematical & physical sciences",113 Chemistry,2017/18,Female,1250
+"Biological, mathematical & physical sciences",113 Chemistry,2017/18,Male,3120
+"Biological, mathematical & physical sciences",114 Physics,2017/18,Female,1025
+"Biological, mathematical & physical sciences",114 Physics,2017/18,Male,4360
+Engineering & technology,115 General engineering,2017/18,Female,905
+Engineering & technology,115 General engineering,2017/18,Male,3205
+Engineering & technology,116 Chemical engineering,2017/18,Female,330
+Engineering & technology,116 Chemical engineering,2017/18,Male,925
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2017/18,Female,330
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2017/18,Male,885
+Engineering & technology,118 Civil engineering,2017/18,Female,490
+Engineering & technology,118 Civil engineering,2017/18,Male,1590
+Engineering & technology,"119 Electrical, electronic & computer engineering",2017/18,Female,695
+Engineering & technology,"119 Electrical, electronic & computer engineering",2017/18,Male,3870
+Engineering & technology,"120 Mechanical, aero & production engineering",2017/18,Female,855
+Engineering & technology,"120 Mechanical, aero & production engineering",2017/18,Male,4355
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2017/18,Female,1675
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2017/18,Male,5820
+"Biological, mathematical & physical sciences",122 Mathematics,2017/18,Female,1110
+"Biological, mathematical & physical sciences",122 Mathematics,2017/18,Male,3775
+Architecture & planning,"123 Architecture, built environment & planning",2017/18,Female,1470
+Architecture & planning,"123 Architecture, built environment & planning",2017/18,Male,2765
+Social studies,124 Geography & environmental studies,2017/18,Female,1020
+Social studies,124 Geography & environmental studies,2017/18,Male,1535
+Humanities & language based studies & archaeology,125 Area studies,2017/18,Female,190
+Humanities & language based studies & archaeology,125 Area studies,2017/18,Male,220
+Humanities & language based studies & archaeology,126 Archaeology,2017/18,Female,365
+Humanities & language based studies & archaeology,126 Archaeology,2017/18,Male,430
+Social studies,127 Anthropology & development studies,2017/18,Female,520
+Social studies,127 Anthropology & development studies,2017/18,Male,475
+Social studies,128 Politics & international studies,2017/18,Female,1365
+Social studies,128 Politics & international studies,2017/18,Male,2200
+Social studies,129 Economics & econometrics,2017/18,Female,915
+Social studies,129 Economics & econometrics,2017/18,Male,2065
+Social studies,130 Law,2017/18,Female,3065
+Social studies,130 Law,2017/18,Male,2890
+Social studies,131 Social work & social policy,2017/18,Female,1885
+Social studies,131 Social work & social policy,2017/18,Male,1030
+Social studies,132 Sociology,2017/18,Female,1845
+Social studies,132 Sociology,2017/18,Male,1430
+Administration & business studies,133 Business & management studies,2017/18,Female,6950
+Administration & business studies,133 Business & management studies,2017/18,Male,9095
+Administration & business studies,134 Catering & hospitality management,2017/18,Female,345
+Administration & business studies,134 Catering & hospitality management,2017/18,Male,295
+Education,135 Education,2017/18,Female,6170
+Education,135 Education,2017/18,Male,2945
+Education,136 Continuing education,2017/18,Female,620
+Education,136 Continuing education,2017/18,Male,385
+Humanities & language based studies & archaeology,137 Modern languages,2017/18,Female,3710
+Humanities & language based studies & archaeology,137 Modern languages,2017/18,Male,1945
+Humanities & language based studies & archaeology,138 English language & literature,2017/18,Female,2860
+Humanities & language based studies & archaeology,138 English language & literature,2017/18,Male,2185
+Humanities & language based studies & archaeology,139 History,2017/18,Female,1530
+Humanities & language based studies & archaeology,139 History,2017/18,Male,2070
+Humanities & language based studies & archaeology,140 Classics,2017/18,Female,315
+Humanities & language based studies & archaeology,140 Classics,2017/18,Male,340
+Humanities & language based studies & archaeology,141 Philosophy,2017/18,Female,340
+Humanities & language based studies & archaeology,141 Philosophy,2017/18,Male,795
+Humanities & language based studies & archaeology,142 Theology & religious studies,2017/18,Female,290
+Humanities & language based studies & archaeology,142 Theology & religious studies,2017/18,Male,485
+"Design, creative & performing arts",143 Art & design,2017/18,Female,5010
+"Design, creative & performing arts",143 Art & design,2017/18,Male,4715
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2017/18,Female,3440
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2017/18,Male,4525
+Social studies,145 Media studies,2017/18,Female,2065
+Social studies,145 Media studies,2017/18,Male,2780
+Total academic services,Total academic services,2017/18,Female,660
+Total academic services,Total academic services,2017/18,Male,485
+"Medicine, dentistry & health",101 Clinical medicine,2018/19,Female,13935
+"Medicine, dentistry & health",101 Clinical medicine,2018/19,Male,11805
+"Medicine, dentistry & health",102 Clinical dentistry,2018/19,Female,740
+"Medicine, dentistry & health",102 Clinical dentistry,2018/19,Male,795
+"Medicine, dentistry & health",103 Nursing & allied health professions,2018/19,Female,8250
+"Medicine, dentistry & health",103 Nursing & allied health professions,2018/19,Male,2845
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2018/19,Female,4840
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2018/19,Male,2945
+"Medicine, dentistry & health",105 Health & community studies,2018/19,Female,1700
+"Medicine, dentistry & health",105 Health & community studies,2018/19,Male,815
+"Medicine, dentistry & health",106 Anatomy & physiology,2018/19,Female,865
+"Medicine, dentistry & health",106 Anatomy & physiology,2018/19,Male,850
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2018/19,Female,1210
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2018/19,Male,1190
+Education,108 Sports science & leisure studies,2018/19,Female,1115
+Education,108 Sports science & leisure studies,2018/19,Male,1945
+"Agriculture, forestry & veterinary science",109 Veterinary science,2018/19,Female,820
+"Agriculture, forestry & veterinary science",109 Veterinary science,2018/19,Male,615
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2018/19,Female,745
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2018/19,Male,680
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2018/19,Female,1365
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2018/19,Male,2385
+"Biological, mathematical & physical sciences",112 Biosciences,2018/19,Female,6720
+"Biological, mathematical & physical sciences",112 Biosciences,2018/19,Male,7830
+"Biological, mathematical & physical sciences",113 Chemistry,2018/19,Female,1280
+"Biological, mathematical & physical sciences",113 Chemistry,2018/19,Male,3115
+"Biological, mathematical & physical sciences",114 Physics,2018/19,Female,1090
+"Biological, mathematical & physical sciences",114 Physics,2018/19,Male,4455
+Engineering & technology,115 General engineering,2018/19,Female,980
+Engineering & technology,115 General engineering,2018/19,Male,3205
+Engineering & technology,116 Chemical engineering,2018/19,Female,365
+Engineering & technology,116 Chemical engineering,2018/19,Male,960
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2018/19,Female,330
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2018/19,Male,915
+Engineering & technology,118 Civil engineering,2018/19,Female,515
+Engineering & technology,118 Civil engineering,2018/19,Male,1675
+Engineering & technology,"119 Electrical, electronic & computer engineering",2018/19,Female,750
+Engineering & technology,"119 Electrical, electronic & computer engineering",2018/19,Male,3955
+Engineering & technology,"120 Mechanical, aero & production engineering",2018/19,Female,890
+Engineering & technology,"120 Mechanical, aero & production engineering",2018/19,Male,4340
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2018/19,Female,1800
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2018/19,Male,6175
+"Biological, mathematical & physical sciences",122 Mathematics,2018/19,Female,1115
+"Biological, mathematical & physical sciences",122 Mathematics,2018/19,Male,3870
+Architecture & planning,"123 Architecture, built environment & planning",2018/19,Female,1620
+Architecture & planning,"123 Architecture, built environment & planning",2018/19,Male,2910
+Social studies,124 Geography & environmental studies,2018/19,Female,1050
+Social studies,124 Geography & environmental studies,2018/19,Male,1565
+Humanities & language based studies & archaeology,125 Area studies,2018/19,Female,205
+Humanities & language based studies & archaeology,125 Area studies,2018/19,Male,230
+Humanities & language based studies & archaeology,126 Archaeology,2018/19,Female,360
+Humanities & language based studies & archaeology,126 Archaeology,2018/19,Male,435
+Social studies,127 Anthropology & development studies,2018/19,Female,505
+Social studies,127 Anthropology & development studies,2018/19,Male,505
+Social studies,128 Politics & international studies,2018/19,Female,1435
+Social studies,128 Politics & international studies,2018/19,Male,2305
+Social studies,129 Economics & econometrics,2018/19,Female,870
+Social studies,129 Economics & econometrics,2018/19,Male,1970
+Social studies,130 Law,2018/19,Female,3225
+Social studies,130 Law,2018/19,Male,2915
+Social studies,131 Social work & social policy,2018/19,Female,1930
+Social studies,131 Social work & social policy,2018/19,Male,990
+Social studies,132 Sociology,2018/19,Female,1955
+Social studies,132 Sociology,2018/19,Male,1535
+Administration & business studies,133 Business & management studies,2018/19,Female,7215
+Administration & business studies,133 Business & management studies,2018/19,Male,9295
+Administration & business studies,134 Catering & hospitality management,2018/19,Female,325
+Administration & business studies,134 Catering & hospitality management,2018/19,Male,275
+Education,135 Education,2018/19,Female,6350
+Education,135 Education,2018/19,Male,2940
+Education,136 Continuing education,2018/19,Female,530
+Education,136 Continuing education,2018/19,Male,320
+Humanities & language based studies & archaeology,137 Modern languages,2018/19,Female,3690
+Humanities & language based studies & archaeology,137 Modern languages,2018/19,Male,1920
+Humanities & language based studies & archaeology,138 English language & literature,2018/19,Female,2930
+Humanities & language based studies & archaeology,138 English language & literature,2018/19,Male,2180
+Humanities & language based studies & archaeology,139 History,2018/19,Female,1605
+Humanities & language based studies & archaeology,139 History,2018/19,Male,2110
+Humanities & language based studies & archaeology,140 Classics,2018/19,Female,320
+Humanities & language based studies & archaeology,140 Classics,2018/19,Male,355
+Humanities & language based studies & archaeology,141 Philosophy,2018/19,Female,355
+Humanities & language based studies & archaeology,141 Philosophy,2018/19,Male,815
+Humanities & language based studies & archaeology,142 Theology & religious studies,2018/19,Female,275
+Humanities & language based studies & archaeology,142 Theology & religious studies,2018/19,Male,445
+"Design, creative & performing arts",143 Art & design,2018/19,Female,5005
+"Design, creative & performing arts",143 Art & design,2018/19,Male,4615
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2018/19,Female,3550
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2018/19,Male,4660
+Social studies,145 Media studies,2018/19,Female,2145
+Social studies,145 Media studies,2018/19,Male,2755
+Total academic services,Total academic services,2018/19,Female,725
+Total academic services,Total academic services,2018/19,Male,535
+"Medicine, dentistry & health",101 Clinical medicine,2019/20,Female,14015
+"Medicine, dentistry & health",101 Clinical medicine,2019/20,Male,11805
+"Medicine, dentistry & health",102 Clinical dentistry,2019/20,Female,745
+"Medicine, dentistry & health",102 Clinical dentistry,2019/20,Male,795
+"Medicine, dentistry & health",103 Nursing & allied health professions,2019/20,Female,8480
+"Medicine, dentistry & health",103 Nursing & allied health professions,2019/20,Male,2955
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2019/20,Female,5200
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2019/20,Male,3025
+"Medicine, dentistry & health",105 Health & community studies,2019/20,Female,1685
+"Medicine, dentistry & health",105 Health & community studies,2019/20,Male,805
+"Medicine, dentistry & health",106 Anatomy & physiology,2019/20,Female,975
+"Medicine, dentistry & health",106 Anatomy & physiology,2019/20,Male,915
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2019/20,Female,1240
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2019/20,Male,1185
+Education,108 Sports science & leisure studies,2019/20,Female,1125
+Education,108 Sports science & leisure studies,2019/20,Male,1915
+"Agriculture, forestry & veterinary science",109 Veterinary science,2019/20,Female,870
+"Agriculture, forestry & veterinary science",109 Veterinary science,2019/20,Male,625
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2019/20,Female,755
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2019/20,Male,655
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2019/20,Female,1405
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2019/20,Male,2335
+"Biological, mathematical & physical sciences",112 Biosciences,2019/20,Female,6950
+"Biological, mathematical & physical sciences",112 Biosciences,2019/20,Male,7915
+"Biological, mathematical & physical sciences",113 Chemistry,2019/20,Female,1315
+"Biological, mathematical & physical sciences",113 Chemistry,2019/20,Male,3075
+"Biological, mathematical & physical sciences",114 Physics,2019/20,Female,1135
+"Biological, mathematical & physical sciences",114 Physics,2019/20,Male,4450
+Engineering & technology,115 General engineering,2019/20,Female,1065
+Engineering & technology,115 General engineering,2019/20,Male,3385
+Engineering & technology,116 Chemical engineering,2019/20,Female,375
+Engineering & technology,116 Chemical engineering,2019/20,Male,965
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2019/20,Female,320
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2019/20,Male,905
+Engineering & technology,118 Civil engineering,2019/20,Female,540
+Engineering & technology,118 Civil engineering,2019/20,Male,1760
+Engineering & technology,"119 Electrical, electronic & computer engineering",2019/20,Female,820
+Engineering & technology,"119 Electrical, electronic & computer engineering",2019/20,Male,4080
+Engineering & technology,"120 Mechanical, aero & production engineering",2019/20,Female,940
+Engineering & technology,"120 Mechanical, aero & production engineering",2019/20,Male,4440
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2019/20,Female,1885
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2019/20,Male,6260
+"Biological, mathematical & physical sciences",122 Mathematics,2019/20,Female,1215
+"Biological, mathematical & physical sciences",122 Mathematics,2019/20,Male,3920
+Architecture & planning,"123 Architecture, built environment & planning",2019/20,Female,1730
+Architecture & planning,"123 Architecture, built environment & planning",2019/20,Male,2990
+Social studies,124 Geography & environmental studies,2019/20,Female,1085
+Social studies,124 Geography & environmental studies,2019/20,Male,1525
+Humanities & language based studies & archaeology,125 Area studies,2019/20,Female,220
+Humanities & language based studies & archaeology,125 Area studies,2019/20,Male,240
+Humanities & language based studies & archaeology,126 Archaeology,2019/20,Female,370
+Humanities & language based studies & archaeology,126 Archaeology,2019/20,Male,425
+Social studies,127 Anthropology & development studies,2019/20,Female,545
+Social studies,127 Anthropology & development studies,2019/20,Male,510
+Social studies,128 Politics & international studies,2019/20,Female,1570
+Social studies,128 Politics & international studies,2019/20,Male,2370
+Social studies,129 Economics & econometrics,2019/20,Female,930
+Social studies,129 Economics & econometrics,2019/20,Male,1995
+Social studies,130 Law,2019/20,Female,3555
+Social studies,130 Law,2019/20,Male,3080
+Social studies,131 Social work & social policy,2019/20,Female,1995
+Social studies,131 Social work & social policy,2019/20,Male,1015
+Social studies,132 Sociology,2019/20,Female,1985
+Social studies,132 Sociology,2019/20,Male,1570
+Administration & business studies,133 Business & management studies,2019/20,Female,7745
+Administration & business studies,133 Business & management studies,2019/20,Male,9845
+Administration & business studies,134 Catering & hospitality management,2019/20,Female,325
+Administration & business studies,134 Catering & hospitality management,2019/20,Male,265
+Education,135 Education,2019/20,Female,6500
+Education,135 Education,2019/20,Male,2950
+Education,136 Continuing education,2019/20,Female,605
+Education,136 Continuing education,2019/20,Male,330
+Humanities & language based studies & archaeology,137 Modern languages,2019/20,Female,3615
+Humanities & language based studies & archaeology,137 Modern languages,2019/20,Male,1860
+Humanities & language based studies & archaeology,138 English language & literature,2019/20,Female,3040
+Humanities & language based studies & archaeology,138 English language & literature,2019/20,Male,2240
+Humanities & language based studies & archaeology,139 History,2019/20,Female,1680
+Humanities & language based studies & archaeology,139 History,2019/20,Male,2095
+Humanities & language based studies & archaeology,140 Classics,2019/20,Female,335
+Humanities & language based studies & archaeology,140 Classics,2019/20,Male,355
+Humanities & language based studies & archaeology,141 Philosophy,2019/20,Female,390
+Humanities & language based studies & archaeology,141 Philosophy,2019/20,Male,840
+Humanities & language based studies & archaeology,142 Theology & religious studies,2019/20,Female,330
+Humanities & language based studies & archaeology,142 Theology & religious studies,2019/20,Male,535
+"Design, creative & performing arts",143 Art & design,2019/20,Female,5160
+"Design, creative & performing arts",143 Art & design,2019/20,Male,4660
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2019/20,Female,3730
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2019/20,Male,5045
+Social studies,145 Media studies,2019/20,Female,2100
+Social studies,145 Media studies,2019/20,Male,2675
+Total academic services,Total academic services,2019/20,Female,895
+Total academic services,Total academic services,2019/20,Male,590
+"Medicine, dentistry & health",101 Clinical medicine,2020/21,Female,14255
+"Medicine, dentistry & health",101 Clinical medicine,2020/21,Male,11745
+"Medicine, dentistry & health",102 Clinical dentistry,2020/21,Female,780
+"Medicine, dentistry & health",102 Clinical dentistry,2020/21,Male,840
+"Medicine, dentistry & health",103 Nursing & allied health professions,2020/21,Female,8705
+"Medicine, dentistry & health",103 Nursing & allied health professions,2020/21,Male,3005
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2020/21,Female,5420
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2020/21,Male,3105
+"Medicine, dentistry & health",105 Health & community studies,2020/21,Female,1600
+"Medicine, dentistry & health",105 Health & community studies,2020/21,Male,820
+"Medicine, dentistry & health",106 Anatomy & physiology,2020/21,Female,950
+"Medicine, dentistry & health",106 Anatomy & physiology,2020/21,Male,885
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2020/21,Female,1190
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2020/21,Male,1085
+Education,108 Sports science & leisure studies,2020/21,Female,1135
+Education,108 Sports science & leisure studies,2020/21,Male,1925
+"Agriculture, forestry & veterinary science",109 Veterinary science,2020/21,Female,940
+"Agriculture, forestry & veterinary science",109 Veterinary science,2020/21,Male,655
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2020/21,Female,805
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2020/21,Male,660
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2020/21,Female,1395
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2020/21,Male,2275
+"Biological, mathematical & physical sciences",112 Biosciences,2020/21,Female,6945
+"Biological, mathematical & physical sciences",112 Biosciences,2020/21,Male,7745
+"Biological, mathematical & physical sciences",113 Chemistry,2020/21,Female,1290
+"Biological, mathematical & physical sciences",113 Chemistry,2020/21,Male,2945
+"Biological, mathematical & physical sciences",114 Physics,2020/21,Female,1190
+"Biological, mathematical & physical sciences",114 Physics,2020/21,Male,4490
+Engineering & technology,115 General engineering,2020/21,Female,1090
+Engineering & technology,115 General engineering,2020/21,Male,3445
+Engineering & technology,116 Chemical engineering,2020/21,Female,405
+Engineering & technology,116 Chemical engineering,2020/21,Male,985
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2020/21,Female,325
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2020/21,Male,875
+Engineering & technology,118 Civil engineering,2020/21,Female,545
+Engineering & technology,118 Civil engineering,2020/21,Male,1710
+Engineering & technology,"119 Electrical, electronic & computer engineering",2020/21,Female,790
+Engineering & technology,"119 Electrical, electronic & computer engineering",2020/21,Male,4110
+Engineering & technology,"120 Mechanical, aero & production engineering",2020/21,Female,975
+Engineering & technology,"120 Mechanical, aero & production engineering",2020/21,Male,4425
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2020/21,Female,2060
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2020/21,Male,6640
+"Biological, mathematical & physical sciences",122 Mathematics,2020/21,Female,1270
+"Biological, mathematical & physical sciences",122 Mathematics,2020/21,Male,3935
+Architecture & planning,"123 Architecture, built environment & planning",2020/21,Female,1855
+Architecture & planning,"123 Architecture, built environment & planning",2020/21,Male,3105
+Social studies,124 Geography & environmental studies,2020/21,Female,1235
+Social studies,124 Geography & environmental studies,2020/21,Male,1615
+Humanities & language based studies & archaeology,125 Area studies,2020/21,Female,190
+Humanities & language based studies & archaeology,125 Area studies,2020/21,Male,210
+Humanities & language based studies & archaeology,126 Archaeology,2020/21,Female,390
+Humanities & language based studies & archaeology,126 Archaeology,2020/21,Male,410
+Social studies,127 Anthropology & development studies,2020/21,Female,510
+Social studies,127 Anthropology & development studies,2020/21,Male,480
+Social studies,128 Politics & international studies,2020/21,Female,1590
+Social studies,128 Politics & international studies,2020/21,Male,2240
+Social studies,129 Economics & econometrics,2020/21,Female,945
+Social studies,129 Economics & econometrics,2020/21,Male,2095
+Social studies,130 Law,2020/21,Female,3635
+Social studies,130 Law,2020/21,Male,3090
+Social studies,131 Social work & social policy,2020/21,Female,2070
+Social studies,131 Social work & social policy,2020/21,Male,1040
+Social studies,132 Sociology,2020/21,Female,2065
+Social studies,132 Sociology,2020/21,Male,1535
+Administration & business studies,133 Business & management studies,2020/21,Female,7935
+Administration & business studies,133 Business & management studies,2020/21,Male,9825
+Administration & business studies,134 Catering & hospitality management,2020/21,Female,250
+Administration & business studies,134 Catering & hospitality management,2020/21,Male,235
+Education,135 Education,2020/21,Female,6410
+Education,135 Education,2020/21,Male,2845
+Education,136 Continuing education,2020/21,Female,565
+Education,136 Continuing education,2020/21,Male,290
+Humanities & language based studies & archaeology,137 Modern languages,2020/21,Female,3430
+Humanities & language based studies & archaeology,137 Modern languages,2020/21,Male,1795
+Humanities & language based studies & archaeology,138 English language & literature,2020/21,Female,2870
+Humanities & language based studies & archaeology,138 English language & literature,2020/21,Male,2120
+Humanities & language based studies & archaeology,139 History,2020/21,Female,1685
+Humanities & language based studies & archaeology,139 History,2020/21,Male,1995
+Humanities & language based studies & archaeology,140 Classics,2020/21,Female,290
+Humanities & language based studies & archaeology,140 Classics,2020/21,Male,325
+Humanities & language based studies & archaeology,141 Philosophy,2020/21,Female,375
+Humanities & language based studies & archaeology,141 Philosophy,2020/21,Male,815
+Humanities & language based studies & archaeology,142 Theology & religious studies,2020/21,Female,330
+Humanities & language based studies & archaeology,142 Theology & religious studies,2020/21,Male,545
+"Design, creative & performing arts",143 Art & design,2020/21,Female,5290
+"Design, creative & performing arts",143 Art & design,2020/21,Male,4575
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2020/21,Female,3710
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2020/21,Male,5180
+Social studies,145 Media studies,2020/21,Female,2020
+Social studies,145 Media studies,2020/21,Male,2580
+Total academic services,Total academic services,2020/21,Female,905
+Total academic services,Total academic services,2020/21,Male,635
+"Medicine, dentistry & health",101 Clinical medicine,2021/22,Female,14510
+"Medicine, dentistry & health",101 Clinical medicine,2021/22,Male,11695
+"Medicine, dentistry & health",102 Clinical dentistry,2021/22,Female,870
+"Medicine, dentistry & health",102 Clinical dentistry,2021/22,Male,900
+"Medicine, dentistry & health",103 Nursing & allied health professions,2021/22,Female,9610
+"Medicine, dentistry & health",103 Nursing & allied health professions,2021/22,Male,3215
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2021/22,Female,6065
+"Medicine, dentistry & health",104 Psychology & behavioural sciences,2021/22,Male,3255
+"Medicine, dentistry & health",105 Health & community studies,2021/22,Female,1655
+"Medicine, dentistry & health",105 Health & community studies,2021/22,Male,840
+"Medicine, dentistry & health",106 Anatomy & physiology,2021/22,Female,910
+"Medicine, dentistry & health",106 Anatomy & physiology,2021/22,Male,790
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2021/22,Female,1275
+"Medicine, dentistry & health",107 Pharmacy & pharmacology,2021/22,Male,1095
+Education,108 Sports science & leisure studies,2021/22,Female,1200
+Education,108 Sports science & leisure studies,2021/22,Male,1970
+"Agriculture, forestry & veterinary science",109 Veterinary science,2021/22,Female,910
+"Agriculture, forestry & veterinary science",109 Veterinary science,2021/22,Male,625
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2021/22,Female,840
+"Agriculture, forestry & veterinary science","110 Agriculture, forestry & food science",2021/22,Male,655
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2021/22,Female,1465
+"Biological, mathematical & physical sciences","111 Earth, marine & environmental sciences",2021/22,Male,2290
+"Biological, mathematical & physical sciences",112 Biosciences,2021/22,Female,7095
+"Biological, mathematical & physical sciences",112 Biosciences,2021/22,Male,7650
+"Biological, mathematical & physical sciences",113 Chemistry,2021/22,Female,1310
+"Biological, mathematical & physical sciences",113 Chemistry,2021/22,Male,2985
+"Biological, mathematical & physical sciences",114 Physics,2021/22,Female,1240
+"Biological, mathematical & physical sciences",114 Physics,2021/22,Male,4465
+Engineering & technology,115 General engineering,2021/22,Female,1185
+Engineering & technology,115 General engineering,2021/22,Male,3550
+Engineering & technology,116 Chemical engineering,2021/22,Female,395
+Engineering & technology,116 Chemical engineering,2021/22,Male,985
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2021/22,Female,330
+Engineering & technology,"117 Mineral, metallurgy & materials engineering",2021/22,Male,830
+Engineering & technology,118 Civil engineering,2021/22,Female,585
+Engineering & technology,118 Civil engineering,2021/22,Male,1715
+Engineering & technology,"119 Electrical, electronic & computer engineering",2021/22,Female,735
+Engineering & technology,"119 Electrical, electronic & computer engineering",2021/22,Male,3905
+Engineering & technology,"120 Mechanical, aero & production engineering",2021/22,Female,1000
+Engineering & technology,"120 Mechanical, aero & production engineering",2021/22,Male,4450
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2021/22,Female,2320
+Engineering & technology,"121 IT, systems sciences & computer software engineering",2021/22,Male,7030
+"Biological, mathematical & physical sciences",122 Mathematics,2021/22,Female,1405
+"Biological, mathematical & physical sciences",122 Mathematics,2021/22,Male,4050
+Architecture & planning,"123 Architecture, built environment & planning",2021/22,Female,2040
+Architecture & planning,"123 Architecture, built environment & planning",2021/22,Male,3230
+Social studies,124 Geography & environmental studies,2021/22,Female,1315
+Social studies,124 Geography & environmental studies,2021/22,Male,1675
+Humanities & language based studies & archaeology,125 Area studies,2021/22,Female,205
+Humanities & language based studies & archaeology,125 Area studies,2021/22,Male,210
+Humanities & language based studies & archaeology,126 Archaeology,2021/22,Female,385
+Humanities & language based studies & archaeology,126 Archaeology,2021/22,Male,430
+Social studies,127 Anthropology & development studies,2021/22,Female,555
+Social studies,127 Anthropology & development studies,2021/22,Male,480
+Social studies,128 Politics & international studies,2021/22,Female,1645
+Social studies,128 Politics & international studies,2021/22,Male,2355
+Social studies,129 Economics & econometrics,2021/22,Female,980
+Social studies,129 Economics & econometrics,2021/22,Male,2160
+Social studies,130 Law,2021/22,Female,3890
+Social studies,130 Law,2021/22,Male,3260
+Social studies,131 Social work & social policy,2021/22,Female,2115
+Social studies,131 Social work & social policy,2021/22,Male,1060
+Social studies,132 Sociology,2021/22,Female,2195
+Social studies,132 Sociology,2021/22,Male,1635
+Administration & business studies,133 Business & management studies,2021/22,Female,8435
+Administration & business studies,133 Business & management studies,2021/22,Male,10245
+Administration & business studies,134 Catering & hospitality management,2021/22,Female,260
+Administration & business studies,134 Catering & hospitality management,2021/22,Male,255
+Education,135 Education,2021/22,Female,6865
+Education,135 Education,2021/22,Male,3020
+Education,136 Continuing education,2021/22,Female,540
+Education,136 Continuing education,2021/22,Male,295
+Humanities & language based studies & archaeology,137 Modern languages,2021/22,Female,3500
+Humanities & language based studies & archaeology,137 Modern languages,2021/22,Male,1810
+Humanities & language based studies & archaeology,138 English language & literature,2021/22,Female,3035
+Humanities & language based studies & archaeology,138 English language & literature,2021/22,Male,2125
+Humanities & language based studies & archaeology,139 History,2021/22,Female,1760
+Humanities & language based studies & archaeology,139 History,2021/22,Male,1960
+Humanities & language based studies & archaeology,140 Classics,2021/22,Female,305
+Humanities & language based studies & archaeology,140 Classics,2021/22,Male,330
+Humanities & language based studies & archaeology,141 Philosophy,2021/22,Female,400
+Humanities & language based studies & archaeology,141 Philosophy,2021/22,Male,860
+Humanities & language based studies & archaeology,142 Theology & religious studies,2021/22,Female,330
+Humanities & language based studies & archaeology,142 Theology & religious studies,2021/22,Male,555
+"Design, creative & performing arts",143 Art & design,2021/22,Female,6075
+"Design, creative & performing arts",143 Art & design,2021/22,Male,4985
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2021/22,Female,3980
+"Design, creative & performing arts","144 Music, dance, drama & performing arts",2021/22,Male,5505
+Social studies,145 Media studies,2021/22,Female,2130
+Social studies,145 Media studies,2021/22,Male,2665
+Total academic services,Total academic services,2021/22,Female,990
+Total academic services,Total academic services,2021/22,Male,675
